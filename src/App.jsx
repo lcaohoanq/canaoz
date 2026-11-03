@@ -273,7 +273,7 @@ export default function App() {
                 )}
               </div>
               <div className="border-t border-[#eeeae2] px-4 sm:px-6 py-3.5 bg-[#fffdfa] flex justify-between items-center gap-3 flex-wrap text-xs text-[#88857e]">
-                <span>Chỉ hiện người đã đồng ý công khai & được duyệt.</span>
+                <span>Chỉ hiện người đã đồng ý công khai.</span>
                 <span className="font-bold text-[#625f56]">MSSV luôn được che bớt 🔒</span>
               </div>
             </div>
@@ -285,7 +285,7 @@ export default function App() {
               <div>
                 <div className="text-[#f1c777] text-[11px] tracking-[.18em] font-extrabold mb-3">YOUR TURN, MAIN CHARACTER ✳</div>
                 <h2 className="font-black text-[29px] sm:text-[38px] tracking-tight leading-[1.12]">Chưa có tên trong đây? <span className="text-[#f2c56e]">Khai liền!</span></h2>
-                <p className="text-[#c1c5b9] mt-3 leading-relaxed max-w-xl text-[13px] sm:text-[14px]">Điền form 30 giây là xong. Sau khi được duyệt, hội bạn có thể tìm thấy ca của bạn trên web.</p>
+                <p className="text-[#c1c5b9] mt-3 leading-relaxed max-w-xl text-[13px] sm:text-[14px]">Điền form 30 giây là xong. Sau khi gửi và đồng ý công khai, hội bạn có thể tìm thấy ca của bạn trên web.</p>
               </div>
               <button onClick={openForm} className="w-fit shrink-0 rounded-full px-6 py-4 bg-[#f7cc78] text-[#282b25] font-black text-[14px] flex gap-2 items-center hover:bg-[#ffdc95] transition-colors">
                 {FORM_URL ? 'Khai ca ngay' : 'Kết nối Google Form'} <ArrowUpRight size={18} />

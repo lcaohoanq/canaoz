@@ -36,23 +36,22 @@ npm run preview
    | `Đồng ý công khai` | Checkboxes | Required; **chỉ một option**: `Tôi đồng ý` |
 
 3. Trong mô tả Form, giải thích: tên, ca, nhóm (nếu có) sẽ xuất hiện công khai; **chỉ hiện MSSV dạng che bớt**; việc khai thông tin là tự nguyện và có cách yêu cầu sửa/xóa.
-4. Tắt thu thập email nếu không cần. Không bật giới hạn "1 phản hồi" nếu muốn mọi người điền không đăng nhập; bạn tự xử lý trùng và duyệt ở Sheet.
+4. Tắt thu thập email nếu không cần. Không bật giới hạn "1 phản hồi" nếu muốn mọi người điền không đăng nhập; bản ghi đồng ý công khai sẽ hiện tự động.
 5. Tab **Responses** → **Link to Sheets** → tạo bảng tính mới.
 6. Lấy URL gửi form qua **Send/Publish/Share → copy link** (giao diện Google có thể thay đổi). Sau này dùng làm `VITE_FORM_URL`.
 
-## 3. Google Sheets — duyệt thủ công
+## 3. Google Sheets — dữ liệu công khai tự động
 
 - Mở bảng tính phản hồi, xác nhận tên tab (thường `Form Responses 1` hoặc `Câu trả lời biểu mẫu 1`). Tên này cần điền vào `SHEET_NAME` trong `apps-script/Code.gs`.
-- Thêm một cột mới tên **`Duyệt`** vào hàng đầu; đặt kiểu **checkbox** (Insert → Checkbox).
-- Sau khi kiểm tra người khai và sự đồng ý công khai, tick `Duyệt` từng hàng. **Chưa tick thì không hiện trên web.**
-- Nếu cần sửa ca/tên, sửa trực tiếp trong Sheet. Nếu yêu cầu xóa, bỏ tick ngay rồi xóa dòng theo chính sách dữ liệu của bạn.
+- Hàng nào chọn **`Tôi đồng ý`** và có tên, MSSV, ca hợp lệ sẽ hiện trên web ngay sau khi Google Form ghi vào Sheet. Không cần cột `Duyệt`; nếu đã thêm cột này, bạn có thể giữ lại nhưng API sẽ bỏ qua.
+- Nếu cần sửa ca/tên, sửa trực tiếp trong Sheet. Nếu cần ẩn một bản ghi, xóa giá trị `Đồng ý công khai` của dòng đó hoặc xóa dòng theo chính sách dữ liệu của bạn.
 - **Không chọn** File → Share → Anyone with link; giữ Sheet ở chế độ riêng tư.
-- Nếu trùng MSSV, bản ghi **được duyệt** mới hơn sẽ hiển thị. Đừng duyệt người mạo danh bằng MSSV (regex không chứng minh danh tính).
+- Nếu trùng MSSV, bản ghi **đồng ý công khai** mới hơn sẽ hiển thị. MSSV chỉ được kiểm tra định dạng, không chứng minh người gửi là chủ MSSV; người biết MSSV của người khác có thể khai sai thông tin.
 
 ## 4. Google Apps Script — API riêng tư
 
 1. Từ Sheet chọn **Extensions → Apps Script**.
-2. Copy toàn bộ `apps-script/Code.gs` vào code editor. Nếu tab không phải `Form Responses 1`, sửa `SHEET_NAME`.
+2. Copy toàn bộ `apps-script/Code.gs` vào code editor. Nếu tab không phải `Form Responses 1`, sửa `SHEET_NAME`. Với deployment đang dùng, vào **Deploy → Manage deployments → Edit → New version → Deploy** sau khi thay code.
 3. Trong Apps Script chọn **Project Settings (bánh răng) → Script properties → Add script property**:
    - Property: `API_TOKEN`
    - Value: một chuỗi bí mật dài ngẫu nhiên (ví dụ tạo bằng `openssl rand -hex 24` trong terminal).
@@ -79,7 +78,7 @@ npm run preview
    | `SHEETS_API_TOKEN` | Cùng chuỗi với `API_TOKEN` của Script | **Không, server-only** |
 
 4. Deploy. Link miễn phí sẽ có dạng `https://<ten-du-an>.vercel.app` tùy tên khả dụng. Sau mỗi lần đổi `VITE_*`, cần redeploy vì giá trị được đóng gói vào client khi build.
-5. Truy cập website → chọn ca / nhập tên → xem dữ liệu được duyệt từ Google Sheets.
+5. Truy cập website → chọn ca / nhập tên → xem dữ liệu đã đồng ý công khai từ Google Sheets.
 
 ## 6. Sửa lịch ca 1, ca 2 sau này
 
@@ -130,7 +129,7 @@ Không dùng `GET /api/search` để dump toàn bộ Sheet; phải có query tê
 
 - **React + Vite** chạy local ở demo mode; khi dùng backend thật, dùng Vercel deploy hoặc `vercel dev` thay `vite dev` để có route `/api/search`.
 - Google Apps Script có quota và độ trễ; miễn phí không đồng nghĩa chịu được lượng lớn truy cập cùng lúc.
-- Form có thể bị spam hoặc khai sai; chỉ công khai dữ liệu đã kiểm duyệt, không xác thực bằng regex.
+- Form có thể bị spam hoặc khai sai; dữ liệu đồng ý công khai sẽ hiện tự động. Regex chỉ kiểm tra định dạng MSSV, không xác thực danh tính.
 - Không publish toàn bộ Sheet hoặc file CSV chứa MSSV. Không ghi token vào các biến bắt đầu bằng `VITE_`.
 - Hãy dùng tài khoản Google bạn có quyền sử dụng để tạo Sheet/Form. Chưa kết nối tài khoản Google/Vercel thì dự án chỉ chạy demo.
 

@@ -5,12 +5,12 @@ import vm from 'node:vm';
 
 function makeScript() {
   const rows = [
-    ['Timestamp', 'Họ và tên', 'MSSV', 'Ca tốt nghiệp', 'Lớp / nhóm', 'Đồng ý công khai', 'Duyệt'],
-    ['today', 'Nguyễn Minh Anh', 'AB123456', 'Ca 3', 'UX', 'Tôi đồng ý', 'TRUE'],
-    ['today', 'Đặng Thanh Sơn', 'CD111222', 'Ca 1', 'IT', 'Tôi đồng ý', 'FALSE'],
-    ['today', 'Nguyễn Hồng Anh', 'EF333444', 'Ca 2', 'Marketing', 'Tôi không đồng ý', 'TRUE'],
-    ['today', 'Nguyễn Minh Anh', 'AB123456', 'Ca 1', 'UX', 'Tôi đồng ý', 'FALSE'],
-    ['today', 'Phạm Gia Huy', 'GH555666', 'Ca 3', 'Data', 'Tôi đồng ý', 'TRUE'],
+    ['Timestamp', 'Họ và tên', 'MSSV', 'Ca tốt nghiệp', 'Lớp / nhóm', 'Đồng ý công khai'],
+    ['today', 'Nguyễn Minh Anh', 'AB123456', 'Ca 3', 'UX', 'Tôi đồng ý'],
+    ['today', 'Đặng Thanh Sơn', 'CD111222', 'Ca 1', 'IT', 'Tôi đồng ý'],
+    ['today', 'Nguyễn Hồng Anh', 'EF333444', 'Ca 2', 'Marketing', 'Tôi không đồng ý'],
+    ['today', 'Nguyễn Minh Anh', 'AB123456', 'Ca 1', 'UX', 'Tôi đồng ý'],
+    ['today', 'Phạm Gia Huy', 'GH555666', 'Ca 3', 'Data', 'Tôi đồng ý'],
   ];
   const ctx = {
     PropertiesService: { getScriptProperties: () => ({ getProperty: () => 'SECRET' }) },
@@ -26,12 +26,13 @@ function makeScript() {
   return { search };
 }
 
-test('Apps Script only returns approved records with explicit consent', () => {
+test('Apps Script publishes consenting records without a Duyệt column', () => {
   const { search } = makeScript();
   const ids = search('', '3').results.map((x) => x.studentIdMasked);
-  assert.deepEqual(ids, ['AB****56', 'GH****66']);
-  assert.equal(search('CD111222').results.length, 0);
+  assert.deepEqual(ids, ['GH****66']);
+  assert.equal(search('CD111222').results.length, 1);
   assert.equal(search('EF333444').results.length, 0);
+  assert.equal(search('AB123456').results[0].shift, 1);
 });
 
 test('Apps Script searches accents and full MSSV but masks output', () => {

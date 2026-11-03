@@ -32,10 +32,6 @@ function column_(headers, names) {
   throw new Error('Missing column: ' + names[0]);
 }
 
-function isApproved_(value) {
-  return ['true', 'yes', '1', 'ok', 'x', 'da duyet'].indexOf(norm_(value)) >= 0;
-}
-
 function hasConsent_(value) {
   // One checkbox option in the Form: "Tôi đồng ý".
   return ['toi dong y', 'dong y'].indexOf(norm_(value)) >= 0;
@@ -74,25 +70,23 @@ function doPost(e) {
     var ixShift = column_(h, ['Ca tốt nghiệp']);
     var ixGroup = column_(h, ['Lớp / nhóm', 'Lớp/nhóm']);
     var ixConsent = column_(h, ['Đồng ý công khai']);
-    var ixApproved = column_(h, ['Duyệt']);
-
-    // Only manually approved, consenting rows. Latest approved row wins for duplicate IDs.
-    var approved = {};
+    // Only rows with explicit consent are public. The latest consenting row wins for duplicate IDs.
+    var consenting = {};
     for (var i = 1; i < rows.length; i++) {
       var r = rows[i];
       var id = String(r[ixId] || '').trim().toUpperCase();
       var name = String(r[ixName] || '').trim();
       var gradShift = parseShift_(r[ixShift]);
-      if (!MSSV_RE.test(id) || !name || !gradShift || !isApproved_(r[ixApproved]) || !hasConsent_(r[ixConsent])) continue;
-      approved[id] = { id: id, name: name, shift: gradShift, group: String(r[ixGroup] || '').trim() };
+      if (!MSSV_RE.test(id) || !name || !gradShift || !hasConsent_(r[ixConsent])) continue;
+      consenting[id] = { id: id, name: name, shift: gradShift, group: String(r[ixGroup] || '').trim() };
     }
 
     var idQuery = MSSV_RE.test(q.toUpperCase());
     var wantedName = norm_(q);
     var result = [];
-    var ids = Object.keys(approved);
+    var ids = Object.keys(consenting);
     for (var j = 0; j < ids.length; j++) {
-      var person = approved[ids[j]];
+      var person = consenting[ids[j]];
       if (shift && person.shift !== Number(shift)) continue;
       if (q && !(idQuery ? person.id === q.toUpperCase() : norm_(person.name).indexOf(wantedName) >= 0)) continue;
       result.push({
