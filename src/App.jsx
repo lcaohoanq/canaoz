@@ -14,7 +14,7 @@ const CORRECTION_URL = (import.meta.env.VITE_CORRECTION_URL || '').trim();
 const shifts = [
   { id: 1, caption: 'BUỔI SÁNG', emoji: '🌤️', checkin: '6:00 – 6:50', ceremony: '7:00 – 9:30', mood: 'Ngủ dậy sớm vì tấm bằng' },
   { id: 2, caption: 'BUỔI TRƯA', emoji: '☀️', checkin: '9:00 – 9:50', ceremony: '10:00 – 12:30', mood: 'Tốt nghiệp giữa giờ ăn trưa' },
-  { id: 3, caption: 'BUỔI CHIỀU', emoji: '🌇', checkin: '13:00 – 13:50', ceremony: '14:00 – 16:30', mood: 'Ca này đã có lịch nè!' },
+  { id: 3, caption: 'BUỔI CHIỀU', emoji: '🌇', checkin: '13:00 – 13:50', ceremony: '14:00 – 16:30', mood: 'Hẹn nhau buổi chiều nha!' },
 ];
 
 function getInitials(name) {
@@ -238,7 +238,7 @@ export default function App() {
                 </button>
               ))}
             </div>
-            <p className="text-[11px] text-[#a09d94] mt-3.5">* Lịch ca 1 và ca 2 chưa được công bố đầy đủ, sẽ update ngay khi có thông tin chính thức.</p>
+            <p className="text-[11px] text-[#a09d94] mt-3.5">Đến check-in đúng khung giờ của ca bạn nhé.</p>
           </section>
 
           <section id="results" ref={resultsRef} className="pt-12 sm:pt-[68px] scroll-mt-4">

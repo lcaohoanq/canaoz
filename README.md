@@ -80,22 +80,17 @@ npm run preview
 4. Deploy. Link miễn phí sẽ có dạng `https://<ten-du-an>.vercel.app` tùy tên khả dụng. Sau mỗi lần đổi `VITE_*`, cần redeploy vì giá trị được đóng gói vào client khi build.
 5. Truy cập website → chọn ca / nhập tên → xem dữ liệu đã đồng ý công khai từ Google Sheets.
 
-## 6. Sửa lịch ca 1, ca 2 sau này
+## 6. Lịch ba ca
 
-Mở `src/App.jsx` tìm mảng `shifts` và thay:
+Lịch hiển thị trong mảng `shifts` ở `src/App.jsx`:
 
-```js
-{
-  id: 1,
-  caption: 'BUỔI SÁNG',
-  emoji: '🌤️',
-  checkin: 'Đang cập nhật', // ← thay khung giờ chính thức
-  ceremony: 'Đang cập nhật', // ← thay khung giờ chính thức
-  mood: 'Ngủ dậy sớm vì tấm bằng'
-}
-```
+| Ca | Check-in | Trao bằng |
+| --- | --- | --- |
+| 1 | 6:00–6:50 | 7:00–9:30 |
+| 2 | 9:00–9:50 | 10:00–12:30 |
+| 3 | 13:00–13:50 | 14:00–16:30 |
 
-Ca 3 có sẵn: **check-in 13:00–13:50**, **trao bằng 14:00–16:30**. Không tự suy đoán giờ ca 1 / 2.
+Khi lịch thay đổi, sửa `checkin` và `ceremony` của ca tương ứng, rồi đẩy mã lên GitHub để Vercel triển khai giao diện mới.
 
 ## 7. Về sửa/xóa thông tin
 
