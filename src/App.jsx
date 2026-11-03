@@ -12,8 +12,8 @@ const FORM_URL = (import.meta.env.VITE_FORM_URL || '').trim();
 const CORRECTION_URL = (import.meta.env.VITE_CORRECTION_URL || '').trim();
 
 const shifts = [
-  { id: 1, caption: 'BUỔI SÁNG', emoji: '🌤️', checkin: 'Đang cập nhật', ceremony: 'Đang cập nhật', mood: 'Ngủ dậy sớm vì tấm bằng' },
-  { id: 2, caption: 'BUỔI TRƯA', emoji: '☀️', checkin: 'Đang cập nhật', ceremony: 'Đang cập nhật', mood: 'Tốt nghiệp giữa giờ ăn trưa' },
+  { id: 1, caption: 'BUỔI SÁNG', emoji: '🌤️', checkin: '6:00 – 6:50', ceremony: '7:00 – 9:30', mood: 'Ngủ dậy sớm vì tấm bằng' },
+  { id: 2, caption: 'BUỔI TRƯA', emoji: '☀️', checkin: '9:00 – 9:50', ceremony: '10:00 – 12:30', mood: 'Tốt nghiệp giữa giờ ăn trưa' },
   { id: 3, caption: 'BUỔI CHIỀU', emoji: '🌇', checkin: '13:00 – 13:50', ceremony: '14:00 – 16:30', mood: 'Ca này đã có lịch nè!' },
 ];
 
