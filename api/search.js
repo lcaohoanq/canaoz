@@ -41,7 +41,9 @@ export default async function handler(req, res) {
     if (!upstream.ok) throw new Error(`Apps Script status ${upstream.status}`);
     const payload = await upstream.json();
     if (!payload || payload.ok !== true || !Array.isArray(payload.results)) {
-      throw new Error('Invalid response from Apps Script');
+      const knownErrors = new Set(['unauthorized', 'invalid_shift', 'invalid_id', 'server_error']);
+      const errorCode = knownErrors.has(payload?.error) ? payload.error : 'unexpected_payload';
+      throw new Error(`Apps Script error: ${errorCode}`);
     }
     const safeResults = payload.results.slice(0, 40).map((p) => ({
       name: String(p.name || '').slice(0, 120),
