@@ -3,8 +3,8 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import vm from 'node:vm';
 
-function makeScript() {
-  const rows = [
+function makeScript(customRows) {
+  const rows = customRows || [
     ['Timestamp', 'Họ và tên', 'MSSV', 'Ca tốt nghiệp', 'Lớp / nhóm', 'Đồng ý công khai'],
     ['today', 'Nguyễn Minh Anh', 'AB123456', 'Ca 3', 'UX', 'Tôi đồng ý'],
     ['today', 'Đặng Thanh Sơn', 'CD111222', 'Ca 1', 'IT', 'Tôi đồng ý'],
@@ -22,8 +22,9 @@ function makeScript() {
     console,
   };
   vm.runInNewContext(fs.readFileSync('apps-script/Code.gs', 'utf8'), ctx);
-  const search = (q, shift = '', token = 'SECRET') => JSON.parse(ctx.doPost({postData:{contents:JSON.stringify({q,shift,token})}}).content);
-  return { search };
+  const post = body => JSON.parse(ctx.doPost({postData:{contents:JSON.stringify(body)}}).content);
+  const search = (q, shift = '', token = 'SECRET') => post({q,shift,token});
+  return { search, post };
 }
 
 test('Apps Script publishes consenting records without a Duyệt column', () => {
@@ -45,4 +46,16 @@ test('Apps Script searches accents and full MSSV but masks output', () => {
 test('Apps Script blocks missing/bad token', () => {
   const { search } = makeScript();
   assert.equal(search('AB123456', '', 'WRONG').ok, false);
+});
+
+test('hybrid protocol acknowledges empty responses, normalizes exclusions and rejects malformed requests', () => {
+  const { post } = makeScript();
+  assert.deepEqual(post({ token: 'SECRET', mergeVersion: 1, excludeStudentIds: [], q: '', shift: '' }), { ok: true, results: [], mergeVersion: 1 });
+  assert.deepEqual(post({ token: 'SECRET', mergeVersion: 1, excludeStudentIds: [' ab123456 '], q: 'AB123456' }), { ok: true, results: [], mergeVersion: 1 });
+  for (const excludeStudentIds of [undefined, null, 'AB123456', ['AB12345']]) {
+    assert.equal(post({ token: 'SECRET', mergeVersion: 1, excludeStudentIds, shift: '1' }).error, 'invalid_exclusions');
+  }
+  assert.equal(post({ token: 'SECRET', mergeVersion: 2, excludeStudentIds: [] }).error, 'unsupported_merge_version');
+  const empty = makeScript([['Họ và tên', 'MSSV', 'Ca tốt nghiệp', 'Lớp / nhóm', 'Đồng ý công khai']]);
+  assert.equal(empty.post({ token: 'SECRET', mergeVersion: 1, excludeStudentIds: [], shift: '1' }).mergeVersion, 1);
 });

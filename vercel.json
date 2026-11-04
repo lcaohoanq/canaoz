@@ -1,7 +1,7 @@
 {
   "framework": "vite",
   "functions": {
-    "api/search.js": { "maxDuration": 15 }
+    "api/search.js": { "maxDuration": 15, "includeFiles": "server-data/official.json" }
   },
   "headers": [
     {

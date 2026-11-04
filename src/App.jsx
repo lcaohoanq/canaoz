@@ -10,6 +10,8 @@ import { demoPeople } from './data/demo';
 const DEMO_MODE = import.meta.env.VITE_DEMO_MODE === 'true' || (import.meta.env.DEV && import.meta.env.VITE_DEMO_MODE !== 'false');
 const FORM_URL = (import.meta.env.VITE_FORM_URL || '').trim();
 const CORRECTION_URL = (import.meta.env.VITE_CORRECTION_URL || '').trim();
+const OFFICIAL_SOURCE = !DEMO_MODE && import.meta.env.VITE_DATA_SOURCE === 'official';
+const HYBRID_SOURCE = !DEMO_MODE && import.meta.env.VITE_DATA_SOURCE === 'hybrid';
 
 const shifts = [
   { id: 1, caption: 'BUỔI SÁNG', emoji: '🌤️', checkin: '6:00 – 6:50', ceremony: '7:00 – 9:30', mood: 'Ngủ dậy sớm vì tấm bằng' },
@@ -43,6 +45,7 @@ function StudentCard({ student, index }) {
         <p className="mt-0.5 text-[12px] text-[#85847e] truncate">
           {student.studentIdMasked}{student.group ? ` · ${student.group}` : ''}
         </p>
+        {student.source && <p className="mt-1 text-[10px] text-[#85847e]">{student.source === 'official' ? 'Nguồn trường' : 'Tự khai bổ sung'}</p>}
       </div>
       <ShiftTag shift={student.shift} />
     </div>
@@ -56,6 +59,7 @@ export default function App() {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
+  const [warning, setWarning] = useState('');
   const [retryKey, setRetryKey] = useState(0);
   const [showSetup, setShowSetup] = useState(false);
   const searchInput = useRef(null);
@@ -73,12 +77,14 @@ export default function App() {
       setData([]);
       setLoading(false);
       setError('');
+      setWarning('');
       return;
     }
     let active = true;
     const controller = new AbortController();
     setLoading(true);
     setError('');
+    setWarning('');
 
     async function load() {
       try {
@@ -95,7 +101,7 @@ export default function App() {
         if (!response.ok || !payload.ok || !Array.isArray(payload.results)) {
           throw new Error(payload.message || 'Không tải được danh sách. Thử lại nhé!');
         }
-        if (active) setData(payload.results);
+        if (active) { setData(payload.results); setWarning(payload.warning || ''); }
       } catch (err) {
         if (active && err.name !== 'AbortError') {
           setData([]);
@@ -258,6 +264,7 @@ export default function App() {
                 </div>
               </div>
               <div aria-live="polite" className="min-h-[180px]">
+                {warning && !loading && !showStale && <p role="status" className="mx-4 sm:mx-6 mt-4 rounded-xl bg-[#fff3dc] px-4 py-3 text-xs text-[#805e2e]">{warning}</p>}
                 {!showResults ? (
                   <div className="empty-state"><div className="empty-emoji">👀</div><h3>Ai đó đang đợi được tìm thấy...</h3><p>Gõ tên / MSSV hoặc chọn một ca bên trên để xem danh sách nha.</p></div>
                 ) : !isSearchReady ? (
@@ -273,7 +280,7 @@ export default function App() {
                 )}
               </div>
               <div className="border-t border-[#eeeae2] px-4 sm:px-6 py-3.5 bg-[#fffdfa] flex justify-between items-center gap-3 flex-wrap text-xs text-[#88857e]">
-                <span>Chỉ hiện người đã đồng ý công khai.</span>
+                <span>{HYBRID_SOURCE ? 'Dữ liệu trường kết hợp đăng ký bổ sung đã đồng ý công khai. Ưu tiên dữ liệu trường nếu trùng MSSV.' : OFFICIAL_SOURCE ? 'Dữ liệu tham khảo từ trang tra cứu lễ tốt nghiệp của trường.' : 'Chỉ hiện người đã đồng ý công khai.'}</span>
                 <span className="font-bold text-[#625f56]">MSSV luôn được che bớt 🔒</span>
               </div>
             </div>
@@ -285,7 +292,7 @@ export default function App() {
               <div>
                 <div className="text-[#f1c777] text-[11px] tracking-[.18em] font-extrabold mb-3">YOUR TURN, MAIN CHARACTER ✳</div>
                 <h2 className="font-black text-[29px] sm:text-[38px] tracking-tight leading-[1.12]">Chưa có tên trong đây? <span className="text-[#f2c56e]">Khai liền!</span></h2>
-                <p className="text-[#c1c5b9] mt-3 leading-relaxed max-w-xl text-[13px] sm:text-[14px]">Điền form 30 giây là xong. Sau khi gửi và đồng ý công khai, hội bạn có thể tìm thấy ca của bạn trên web.</p>
+                <p className="text-[#c1c5b9] mt-3 leading-relaxed max-w-xl text-[13px] sm:text-[14px]">Điền form 30 giây là xong. Sau khi gửi và đồng ý công khai, hội bạn có thể tìm thấy ca của bạn trên web.{HYBRID_SOURCE && ' Đăng ký bổ sung không ghi đè dữ liệu đã có từ trường.'}</p>
               </div>
               <button onClick={openForm} className="w-fit shrink-0 rounded-full px-6 py-4 bg-[#f7cc78] text-[#282b25] font-black text-[14px] flex gap-2 items-center hover:bg-[#ffdc95] transition-colors">
                 {FORM_URL ? 'Khai ca ngay' : 'Kết nối Google Form'} <ArrowUpRight size={18} />
@@ -317,7 +324,7 @@ export default function App() {
                 </div>
               ))}
             </div>
-            <div className="flex items-start gap-2.5 mt-6 text-[#827e75] text-xs leading-relaxed"><CircleHelp size={16} className="shrink-0 mt-0.5" /> <span>Trang này do sinh viên tự khai, không phải lịch xác nhận chính thức của trường. Hãy đối chiếu với thông báo của trường trước ngày lễ.</span></div>
+            <div className="flex items-start gap-2.5 mt-6 text-[#827e75] text-xs leading-relaxed"><CircleHelp size={16} className="shrink-0 mt-0.5" /> <span>{HYBRID_SOURCE ? 'Kết quả gồm dữ liệu trường tại thời điểm tra cứu và ca do sinh viên tự khai bổ sung; mỗi kết quả có ghi nguồn. Hãy đối chiếu thông báo của trường trước ngày lễ.' : OFFICIAL_SOURCE ? 'Dữ liệu được lưu tại thời điểm tra cứu và có thể thay đổi. Hãy đối chiếu với thông báo của trường trước ngày lễ.' : 'Trang này do sinh viên tự khai, không phải lịch xác nhận chính thức của trường. Hãy đối chiếu với thông báo của trường trước ngày lễ.'}</span></div>
           </section>
         </main>
         <footer className="flex flex-col sm:flex-row justify-between gap-5 border-t border-[#dedbd2] pt-6 pb-10">

@@ -15,6 +15,12 @@ function json_(value) {
     .setMimeType(ContentService.MimeType.JSON);
 }
 
+function searchResult_(results, merging) {
+  var payload = { ok: true, results: results };
+  if (merging) payload.mergeVersion = 1;
+  return json_(payload);
+}
+
 function norm_(value) {
   return String(value == null ? '' : value)
     .normalize('NFD')
@@ -50,19 +56,33 @@ function doPost(e) {
       return json_({ ok: false, error: 'unauthorized' });
     }
 
+    // The trusted API sends all official IDs. Exclude before query/limit so a
+    // conflicting community name or shift cannot override the official record.
+    var merging = body.mergeVersion === 1;
+    var excluded = {};
+    if (body.mergeVersion !== undefined && !merging) return json_({ ok: false, error: 'unsupported_merge_version' });
+    if (merging) {
+      if (!Array.isArray(body.excludeStudentIds) || body.excludeStudentIds.length > 100000) return json_({ ok: false, error: 'invalid_exclusions' });
+      for (var ex = 0; ex < body.excludeStudentIds.length; ex++) {
+        var excludedId = String(body.excludeStudentIds[ex] || '').trim().toUpperCase();
+        if (!MSSV_RE.test(excludedId)) return json_({ ok: false, error: 'invalid_exclusions' });
+        excluded[excludedId] = true;
+      }
+    }
+
     var q = String(body.q || '').trim().slice(0, 100);
     var shift = String(body.shift || '');
     if (shift && !/^[123]$/.test(shift)) return json_({ ok: false, error: 'invalid_shift' });
     if (q && /^[A-Za-z]+\d/.test(q) && !MSSV_RE.test(q.toUpperCase())) {
       return json_({ ok: false, error: 'invalid_id' });
     }
-    if (!q && !shift) return json_({ ok: true, results: [] });
+    if (!q && !shift) return searchResult_([], merging);
 
     var ss = SpreadsheetApp.getActiveSpreadsheet();
     var sheet = ss.getSheetByName(SHEET_NAME);
     if (!sheet) throw new Error('Wrong SHEET_NAME');
     var rows = sheet.getDataRange().getDisplayValues();
-    if (rows.length < 2) return json_({ ok: true, results: [] });
+    if (rows.length < 2) return searchResult_([], merging);
 
     var h = rows[0];
     var ixName = column_(h, ['Họ và tên']);
@@ -77,7 +97,7 @@ function doPost(e) {
       var id = String(r[ixId] || '').trim().toUpperCase();
       var name = String(r[ixName] || '').trim();
       var gradShift = parseShift_(r[ixShift]);
-      if (!MSSV_RE.test(id) || !name || !gradShift || !hasConsent_(r[ixConsent])) continue;
+      if (!MSSV_RE.test(id) || !name || !gradShift || !hasConsent_(r[ixConsent]) || excluded[id]) continue;
       consenting[id] = { id: id, name: name, shift: gradShift, group: String(r[ixGroup] || '').trim() };
     }
 
@@ -97,7 +117,7 @@ function doPost(e) {
       });
       if (result.length >= MAX_RESULTS) break;
     }
-    return json_({ ok: true, results: result });
+    return searchResult_(result, merging);
   } catch (error) {
     console.error('Ca Nao Z API error', error);
     return json_({ ok: false, error: 'server_error' });

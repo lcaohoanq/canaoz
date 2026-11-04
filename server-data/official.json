@@ -1,0 +1,5189 @@
+{
+  "source": "https://tracuu.srofptuhcm.com/",
+  "records": [
+    {
+      "studentId": "DE180698",
+      "name": "Trần Quang Nguyên",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:11:54.615Z"
+    },
+    {
+      "studentId": "DE180713",
+      "name": "Ngô Phan Gia Bảo",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:53:44.414Z"
+    },
+    {
+      "studentId": "DS180093",
+      "name": "Lê Trà Thanh Thuyền",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:54:08.614Z"
+    },
+    {
+      "studentId": "DS180531",
+      "name": "Võ Thị Như Hoài",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:54:00.499Z"
+    },
+    {
+      "studentId": "HE176690",
+      "name": "Nguyễn Hoàng An",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:31:53.081Z"
+    },
+    {
+      "studentId": "HE189017",
+      "name": "Nguyễn Xuân Hà Nguyên",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:49:03.418Z"
+    },
+    {
+      "studentId": "QE170231",
+      "name": "Lâm Hoàng Sơn",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:46:27.080Z"
+    },
+    {
+      "studentId": "QE180006",
+      "name": "Nguyễn Đào Bách",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:18:13.948Z"
+    },
+    {
+      "studentId": "QE180075",
+      "name": "Trần Hạ Khương Duy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:35:11.914Z"
+    },
+    {
+      "studentId": "QE180121",
+      "name": "Nguyễn Hồng Quân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:10:00.231Z"
+    },
+    {
+      "studentId": "QE180177",
+      "name": "Võ Hoàng Lâm",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:56:08.949Z"
+    },
+    {
+      "studentId": "QE180185",
+      "name": "Lê Hoàng Trọng",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:19:32.247Z"
+    },
+    {
+      "studentId": "SA180159",
+      "name": "Trương Ngọc Quỳnh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:55:36.881Z"
+    },
+    {
+      "studentId": "SA180187",
+      "name": "Phan Hồ Thanh Trúc",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:55:28.898Z"
+    },
+    {
+      "studentId": "SE140277",
+      "name": "Mai Nguyễn Tuấn Tú",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:51:52.395Z"
+    },
+    {
+      "studentId": "SE141190",
+      "name": "Ngô Vỹ Khang",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:52:04.761Z"
+    },
+    {
+      "studentId": "SE150555",
+      "name": "Bùi Hoàng Hiệp",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:25:21.630Z"
+    },
+    {
+      "studentId": "SE150884",
+      "name": "Trần Hải Long",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:53:41.231Z"
+    },
+    {
+      "studentId": "SE151283",
+      "name": "Đại Kim Nguyên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:52:22.513Z"
+    },
+    {
+      "studentId": "SE160407",
+      "name": "Hoàng Đỗ Toàn",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:28:52.398Z"
+    },
+    {
+      "studentId": "SE160423",
+      "name": "Võ Xuân Đạt",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:31:23.014Z"
+    },
+    {
+      "studentId": "SE160556",
+      "name": "Vũ Đậu Thành Hoàng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:27:04.032Z"
+    },
+    {
+      "studentId": "SE160646",
+      "name": "Phan Quang Tiến",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:55:52.948Z"
+    },
+    {
+      "studentId": "SE161444",
+      "name": "Trần Huy Đức",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:21:20.698Z"
+    },
+    {
+      "studentId": "SE161497",
+      "name": "Lê Hải Long",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:57:24.145Z"
+    },
+    {
+      "studentId": "SE161574",
+      "name": "Phạm Hồng Quân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:52:28.845Z"
+    },
+    {
+      "studentId": "SE161641",
+      "name": "Hoàng Lê Công Thành",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:31:35.030Z"
+    },
+    {
+      "studentId": "SE161728",
+      "name": "Nguyễn Hoài Nam",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:20:26.631Z"
+    },
+    {
+      "studentId": "SE161859",
+      "name": "Nguyễn Đoàn Anh Duy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:52:10.778Z"
+    },
+    {
+      "studentId": "SE161889",
+      "name": "Đinh Gia Huy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:55:04.814Z"
+    },
+    {
+      "studentId": "SE170004",
+      "name": "Châu Chí Bảo",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:40:49.964Z"
+    },
+    {
+      "studentId": "SE170005",
+      "name": "Lê Văn Chương",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:41:00.660Z"
+    },
+    {
+      "studentId": "SE170012",
+      "name": "Nguyễn Luân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:42:12.161Z"
+    },
+    {
+      "studentId": "SE170013",
+      "name": "Trương Gia Hải",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:42:22.828Z"
+    },
+    {
+      "studentId": "SE170019",
+      "name": "Nguyễn Đỗ Khánh Trình",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:43:24.111Z"
+    },
+    {
+      "studentId": "SE170021",
+      "name": "Phan Minh Đức",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:43:44.544Z"
+    },
+    {
+      "studentId": "SE170025",
+      "name": "Đỗ Bá Trí",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:44:25.327Z"
+    },
+    {
+      "studentId": "SE170028",
+      "name": "Lê Tiến Đạt",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:44:55.945Z"
+    },
+    {
+      "studentId": "SE170030",
+      "name": "Tô Duy Hoàng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:45:16.394Z"
+    },
+    {
+      "studentId": "SE170037",
+      "name": "Nguyễn Thành Danh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:46:27.878Z"
+    },
+    {
+      "studentId": "SE170039",
+      "name": "Nguyễn Hoàng Anh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:46:48.278Z"
+    },
+    {
+      "studentId": "SE170045",
+      "name": "Đặng Cao Thức",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:47:49.511Z"
+    },
+    {
+      "studentId": "SE170046",
+      "name": "Nguyễn Hàng Nhật Huy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:48:00.177Z"
+    },
+    {
+      "studentId": "SE170058",
+      "name": "Phạm Minh Tuấn",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:50:42.919Z"
+    },
+    {
+      "studentId": "SE170060",
+      "name": "Nguyễn Hữu Hoàng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:51:03.535Z"
+    },
+    {
+      "studentId": "SE170062",
+      "name": "Lê Kim Bảo Nhật",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:51:24.118Z"
+    },
+    {
+      "studentId": "SE170063",
+      "name": "Trần Lâm Khánh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:51:34.801Z"
+    },
+    {
+      "studentId": "SE170076",
+      "name": "Dương Thành Thoại",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:53:48.818Z"
+    },
+    {
+      "studentId": "SE170077",
+      "name": "Ngô Anh Kiệt",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:53:59.518Z"
+    },
+    {
+      "studentId": "SE170123",
+      "name": "Nguyễn Thành Đạt",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:46:51.529Z"
+    },
+    {
+      "studentId": "SE170163",
+      "name": "Bùi Trần Duy Vũ",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:24:21.314Z"
+    },
+    {
+      "studentId": "SE170173",
+      "name": "Võ Thành Long",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:33:17.497Z"
+    },
+    {
+      "studentId": "SE170204",
+      "name": "Nguyễn Mạnh Tiến",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:16:31.546Z"
+    },
+    {
+      "studentId": "SE170213",
+      "name": "Trần Thị Cẩm Tú",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:36:30.164Z"
+    },
+    {
+      "studentId": "SE170251",
+      "name": "Nguyễn Thị Thu Ngân",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:55:44.981Z"
+    },
+    {
+      "studentId": "SE170260",
+      "name": "Nguyễn Thành Tài++",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:05:11.097Z"
+    },
+    {
+      "studentId": "SE170262",
+      "name": "Bùi Minh Trí",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:43:54.218Z"
+    },
+    {
+      "studentId": "SE170283",
+      "name": "Đào Dương Hùng Anh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:46:45.495Z"
+    },
+    {
+      "studentId": "SE170297",
+      "name": "Nguyễn Văn Đại",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:53:17.096Z"
+    },
+    {
+      "studentId": "SE170333",
+      "name": "Lê Văn Huy Hoàng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:09:24.081Z"
+    },
+    {
+      "studentId": "SE170373",
+      "name": "Le Ngoc Tuan",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:47:33.679Z"
+    },
+    {
+      "studentId": "SE170376",
+      "name": "Hoàng Quốc Trí",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:51:22.594Z"
+    },
+    {
+      "studentId": "SE170416",
+      "name": "Nguyễn Trung Kiên",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:48:15.611Z"
+    },
+    {
+      "studentId": "SE170454",
+      "name": "Nguyễn Thị Mai Trinh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:58:48.844Z"
+    },
+    {
+      "studentId": "SE170483",
+      "name": "Nguyễn Hoàng Nam",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:55:53.795Z"
+    },
+    {
+      "studentId": "SE170489",
+      "name": "Nguyễn Quang Sơn",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:46:39.145Z"
+    },
+    {
+      "studentId": "SE170515",
+      "name": "Đỗ Quốc Hưng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:15:55.464Z"
+    },
+    {
+      "studentId": "SE170572",
+      "name": "Nguyễn Phúc Tấn",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:08:11.850Z"
+    },
+    {
+      "studentId": "SE170578",
+      "name": "Huỳnh Phi Long",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:11:42.514Z"
+    },
+    {
+      "studentId": "SE170601",
+      "name": "Nguyễn Thái Duy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:15:19.280Z"
+    },
+    {
+      "studentId": "SE170602",
+      "name": "Lương Thị Thùy Trang",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:07:06.012Z"
+    },
+    {
+      "studentId": "SE171081",
+      "name": "Nguyễn Phúc Thiên Ân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:22:57.049Z"
+    },
+    {
+      "studentId": "SE171156",
+      "name": "Đặng Nhật Phi",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:57:30.484Z"
+    },
+    {
+      "studentId": "SE171186",
+      "name": "Đặng Minh Chung",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:13:18.898Z"
+    },
+    {
+      "studentId": "SE171201",
+      "name": "Lê Phước Lộc",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:11:18.959Z"
+    },
+    {
+      "studentId": "SE171207",
+      "name": "Phạm Thị Hải Anh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:49:03.695Z"
+    },
+    {
+      "studentId": "SE171375",
+      "name": "Long Nguyên",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:58:54.878Z"
+    },
+    {
+      "studentId": "SE171414",
+      "name": "Nguyễn Ngọc Duy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:14:01.048Z"
+    },
+    {
+      "studentId": "SE171453",
+      "name": "Nguyễn Duy Dương",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:53:11.064Z"
+    },
+    {
+      "studentId": "SE171589",
+      "name": "Phạm Đình Quốc Thịnh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:56:11.811Z"
+    },
+    {
+      "studentId": "SE171613",
+      "name": "Biện Thị Trúc Phương",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:47:15.647Z"
+    },
+    {
+      "studentId": "SE171619",
+      "name": "Trần Anh Thông",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:53:04.699Z"
+    },
+    {
+      "studentId": "SE171646",
+      "name": "Ngô Tùng Hiệp",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:57:12.012Z"
+    },
+    {
+      "studentId": "SE171716",
+      "name": "Nguyễn Thái Thuận",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:57:42.190Z"
+    },
+    {
+      "studentId": "SE171744",
+      "name": "Vũ Thành Đức",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:34:23.715Z"
+    },
+    {
+      "studentId": "SE171856",
+      "name": "Vũ Minh Trọng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:50:22.363Z"
+    },
+    {
+      "studentId": "SE171868",
+      "name": "Nguyễn Thanh Hải",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:47:27.312Z"
+    },
+    {
+      "studentId": "SE171905",
+      "name": "Nguyễn Trần Gia Hưng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:14:19.046Z"
+    },
+    {
+      "studentId": "SE171937",
+      "name": "Trần Minh Tiến",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:58:24.477Z"
+    },
+    {
+      "studentId": "SE171941",
+      "name": "Trần Bình Đoan Trinh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:50:10.313Z"
+    },
+    {
+      "studentId": "SE172005",
+      "name": "Phan Văn Hùng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:59:05.682Z"
+    },
+    {
+      "studentId": "SE172169",
+      "name": "Huỳnh Thị Quế Anh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:11:33.911Z"
+    },
+    {
+      "studentId": "SE172181",
+      "name": "Nguyễn Sĩ Vạn Hào",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:32:47.329Z"
+    },
+    {
+      "studentId": "SE172296",
+      "name": "Cao Khắc Bảo",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:58:57.664Z"
+    },
+    {
+      "studentId": "SE172317",
+      "name": "Nguyễn Minh Thông",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:13:49.098Z"
+    },
+    {
+      "studentId": "SE172380",
+      "name": "Phạm Lê Thắng Hùng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:50:03.961Z"
+    },
+    {
+      "studentId": "SE172388",
+      "name": "Nguyễn Hoàng Long",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:54:17.444Z"
+    },
+    {
+      "studentId": "SE172493",
+      "name": "Trần Minh Luân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:13:24.931Z"
+    },
+    {
+      "studentId": "SE172506",
+      "name": "Phan Ngọc Hoàng Sang",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:13:06.799Z"
+    },
+    {
+      "studentId": "SE172525",
+      "name": "Đỗ Trần Lâm",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:12:42.848Z"
+    },
+    {
+      "studentId": "SE172543",
+      "name": "Lý Văn Mỹ",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:35:05.948Z"
+    },
+    {
+      "studentId": "SE172604",
+      "name": "Phan Hoàng Duy Kha",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:29:58.663Z"
+    },
+    {
+      "studentId": "SE172605",
+      "name": "Hoàng Văn Anh Nghĩa",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:24:33.414Z"
+    },
+    {
+      "studentId": "SE172607",
+      "name": "Nguyễn Nhật Phát",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:24:45.498Z"
+    },
+    {
+      "studentId": "SE172625",
+      "name": "Nguyễn Minh Khôi",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:24:51.446Z"
+    },
+    {
+      "studentId": "SE172810",
+      "name": "Phan Võ Ngọc Phú",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:22:20.914Z"
+    },
+    {
+      "studentId": "SE172815",
+      "name": "Trần Hồ Duy Anh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:25:03.480Z"
+    },
+    {
+      "studentId": "SE172819",
+      "name": "Châu Phi Trường",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:34:36.233Z"
+    },
+    {
+      "studentId": "SE172857",
+      "name": "Hoàng Văn An",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:34:30.299Z"
+    },
+    {
+      "studentId": "SE172923",
+      "name": "Nguyễn Quốc Đạt",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:22:33.185Z"
+    },
+    {
+      "studentId": "SE172979",
+      "name": "Ngô Huỳnh Tuấn",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:48:45.978Z"
+    },
+    {
+      "studentId": "SE173028",
+      "name": "Võ Lương Phương Nam",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:29:17.113Z"
+    },
+    {
+      "studentId": "SE173057",
+      "name": "Nguyễn Di Thiên",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:54:35.208Z"
+    },
+    {
+      "studentId": "SE173131",
+      "name": "Đào Công Nhơn",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:51:58.728Z"
+    },
+    {
+      "studentId": "SE173162",
+      "name": "Nguyễn Thượng Phong",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:09:37.064Z"
+    },
+    {
+      "studentId": "SE173173",
+      "name": "Trần Văn Lâm",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:15:01.232Z"
+    },
+    {
+      "studentId": "SE173174",
+      "name": "Trương Nguyễn Hoàng Long",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:23:45.216Z"
+    },
+    {
+      "studentId": "SE173198",
+      "name": "Nguyễn Trần Tấn Phát",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:24:39.415Z"
+    },
+    {
+      "studentId": "SE173226",
+      "name": "Đỗ Trần Phúc Hậu",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:16:55.630Z"
+    },
+    {
+      "studentId": "SE173254",
+      "name": "Ngô Thanh Trí",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:11:50.297Z"
+    },
+    {
+      "studentId": "SE173288",
+      "name": "Dương Thúy Vy",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:13:55.048Z"
+    },
+    {
+      "studentId": "SE173308",
+      "name": "Hứa Hoài Thương",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:48:39.947Z"
+    },
+    {
+      "studentId": "SE173318",
+      "name": "Nguyễn Đức Tuấn",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:29:52.630Z"
+    },
+    {
+      "studentId": "SE173325",
+      "name": "Đào Trọng Tiến",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:09:43.515Z"
+    },
+    {
+      "studentId": "SE173369",
+      "name": "Hoàng Hồng Quân",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:09:55.009Z"
+    },
+    {
+      "studentId": "SE173387",
+      "name": "Lê Phúc Trường",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:07:17.598Z"
+    },
+    {
+      "studentId": "SE173390",
+      "name": "Ninh Đức Huy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:48:27.534Z"
+    },
+    {
+      "studentId": "SE173394",
+      "name": "Phan Văn Trường",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:07:23.665Z"
+    },
+    {
+      "studentId": "SE173402",
+      "name": "Đào Bùi Thanh Duy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:48:33.929Z"
+    },
+    {
+      "studentId": "SE173411",
+      "name": "Trần Anh Vỹ",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:07:29.699Z"
+    },
+    {
+      "studentId": "SE173412",
+      "name": "Nguyễn Tuấn An",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:07:36.766Z"
+    },
+    {
+      "studentId": "SE173423",
+      "name": "Nguyễn Vũ Nguyên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:07:11.564Z"
+    },
+    {
+      "studentId": "SE173462",
+      "name": "Lê Tô Nho Tín",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:58:25.531Z"
+    },
+    {
+      "studentId": "SE173510",
+      "name": "Nguyễn Anh Kiệt",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:50:34.096Z"
+    },
+    {
+      "studentId": "SE173527",
+      "name": "Phạm Duy Doanh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:24:03.514Z"
+    },
+    {
+      "studentId": "SE173534",
+      "name": "Nguyễn Quang Thanh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:12:48.764Z"
+    },
+    {
+      "studentId": "SE173612",
+      "name": "Trần Đức Mạnh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:53:59.315Z"
+    },
+    {
+      "studentId": "SE173621",
+      "name": "Nguyễn Phú Cường",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:24:09.280Z"
+    },
+    {
+      "studentId": "SE173699",
+      "name": "Nguyễn Đức Phương Nam",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:22:14.964Z"
+    },
+    {
+      "studentId": "SE180005",
+      "name": "Lê Minh Trọng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:04:07.747Z"
+    },
+    {
+      "studentId": "SE180009",
+      "name": "Tường Minh Hà",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:04:21.174Z"
+    },
+    {
+      "studentId": "SE180010",
+      "name": "Lê Thanh Trường",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:05:20.812Z"
+    },
+    {
+      "studentId": "SE180015",
+      "name": "Phan Ngọc Huyền",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:06:12.486Z"
+    },
+    {
+      "studentId": "SE180018",
+      "name": "Nguyễn Phước Đại",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:06:43.519Z"
+    },
+    {
+      "studentId": "SE180038",
+      "name": "Trịnh Minh Hải",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:11:04.939Z"
+    },
+    {
+      "studentId": "SE180039",
+      "name": "Trần Huy Anh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:12:13.066Z"
+    },
+    {
+      "studentId": "SE180041",
+      "name": "Hoàng Nguyễn Thành Tâm",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:12:33.812Z"
+    },
+    {
+      "studentId": "SE180042",
+      "name": "Trịnh Đức Hưng",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:12:44.494Z"
+    },
+    {
+      "studentId": "SE180043",
+      "name": "Phạm Ngọc Duy Minh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:12:55.144Z"
+    },
+    {
+      "studentId": "SE180046",
+      "name": "Phạm Trần Bạch Long",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:13:26.861Z"
+    },
+    {
+      "studentId": "SE180049",
+      "name": "Lê Minh Khoa",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:13:58.808Z"
+    },
+    {
+      "studentId": "SE180056",
+      "name": "Lê Phúc Hậu",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:15:11.530Z"
+    },
+    {
+      "studentId": "SE180058",
+      "name": "Trần Bá Huy",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:15:32.265Z"
+    },
+    {
+      "studentId": "SE180059",
+      "name": "Nguyễn Việt Đăng Khoa",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:15:42.929Z"
+    },
+    {
+      "studentId": "SE180067",
+      "name": "Dương Trung Kiên",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:17:26.164Z"
+    },
+    {
+      "studentId": "SE180068",
+      "name": "Huỳnh Chiếm Phương Nguyên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:17:36.845Z"
+    },
+    {
+      "studentId": "SE180070",
+      "name": "Trần Đức An",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:17:57.227Z"
+    },
+    {
+      "studentId": "SE180072",
+      "name": "Nguyễn Phúc Quý Hiển",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:18:17.612Z"
+    },
+    {
+      "studentId": "SE180074",
+      "name": "Nguyễn Hoàng Nhật Ân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:18:38.011Z"
+    },
+    {
+      "studentId": "SE180075",
+      "name": "Lê Hữu Thắng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:18:48.677Z"
+    },
+    {
+      "studentId": "SE180087",
+      "name": "Vũ Anh Khôi",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:20:54.178Z"
+    },
+    {
+      "studentId": "SE180096",
+      "name": "Trương Nguyễn Đăng Khoa",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:22:26.094Z"
+    },
+    {
+      "studentId": "SE180099",
+      "name": "Nguyễn Hoàng Viết Đô",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:22:56.695Z"
+    },
+    {
+      "studentId": "SE180100",
+      "name": "Võ Nam Sang",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:54:40.684Z"
+    },
+    {
+      "studentId": "SE180105",
+      "name": "Hà Xuân Khang",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:55:32.201Z"
+    },
+    {
+      "studentId": "SE180109",
+      "name": "Nguyễn Minh Nhựt",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:56:13.421Z"
+    },
+    {
+      "studentId": "SE180111",
+      "name": "Nguyễn Quốc Huy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:56:34.051Z"
+    },
+    {
+      "studentId": "SE180113",
+      "name": "Hoàng Tuấn Anh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:56:54.735Z"
+    },
+    {
+      "studentId": "SE180116",
+      "name": "Đoàn Thị Ngọc Bích",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:57:25.585Z"
+    },
+    {
+      "studentId": "SE180121",
+      "name": "Trần Mai Quang Khải",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:58:17.369Z"
+    },
+    {
+      "studentId": "SE180123",
+      "name": "Nguyễn Tiến Đạt",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:58:37.950Z"
+    },
+    {
+      "studentId": "SE180124",
+      "name": "Nguyễn Đăng Khôi",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:58:48.618Z"
+    },
+    {
+      "studentId": "SE180128",
+      "name": "Hồ Ngọc Thắng",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:59:29.768Z"
+    },
+    {
+      "studentId": "SE180130",
+      "name": "Hoàng Anh Tú",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:59:50.369Z"
+    },
+    {
+      "studentId": "SE180131",
+      "name": "Nguyễn Khắc Thảo Nguyên",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T17:00:01.068Z"
+    },
+    {
+      "studentId": "SE180135",
+      "name": "Hà Lê Minh Thi",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T17:00:42.269Z"
+    },
+    {
+      "studentId": "SE180136",
+      "name": "Phạm Quang Trường",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T17:00:52.968Z"
+    },
+    {
+      "studentId": "SE180151",
+      "name": "Trần Khánh Linh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T17:03:27.368Z"
+    },
+    {
+      "studentId": "SE180159",
+      "name": "Nguyễn Anh Hùng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T17:04:50.102Z"
+    },
+    {
+      "studentId": "SE180160",
+      "name": "Hồ Hải Thuận",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T17:05:00.801Z"
+    },
+    {
+      "studentId": "SE180161",
+      "name": "Đỗ Quốc Anh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T17:05:11.469Z"
+    },
+    {
+      "studentId": "SE180163",
+      "name": "Nguyễn Hoàng Dũng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T17:05:32.168Z"
+    },
+    {
+      "studentId": "SE180164",
+      "name": "Lê Hữu Khanh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T17:05:42.851Z"
+    },
+    {
+      "studentId": "SE180168",
+      "name": "Nguyễn Văn Duy Khiêm",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T17:06:24.502Z"
+    },
+    {
+      "studentId": "SE180170",
+      "name": "Nguyễn Duy Khang",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T17:06:45.120Z"
+    },
+    {
+      "studentId": "SE180194",
+      "name": "Trần Minh Khoa",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T17:10:53.001Z"
+    },
+    {
+      "studentId": "SE180197",
+      "name": "Nguyễn Thành Đạt",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T17:11:24.334Z"
+    },
+    {
+      "studentId": "SE180199",
+      "name": "Bùi Chương Quốc Tường",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T17:11:45.018Z"
+    },
+    {
+      "studentId": "SE180207",
+      "name": "Nguyễn Bách Duy Hoàng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T17:13:07.271Z"
+    },
+    {
+      "studentId": "SE180248",
+      "name": "Lê Hồ Anh Khoa",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:24:03.481Z"
+    },
+    {
+      "studentId": "SE180255",
+      "name": "Nguyễn Hồng Ngọc Phương",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:25:14.896Z"
+    },
+    {
+      "studentId": "SE180256",
+      "name": "Phạm Phương Nam",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T23:25:25.580Z"
+    },
+    {
+      "studentId": "SE180259",
+      "name": "Đặng Phương Nam",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:25:56.163Z"
+    },
+    {
+      "studentId": "SE180261",
+      "name": "Nguyễn Minh Quân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:26:16.579Z"
+    },
+    {
+      "studentId": "SE180274",
+      "name": "Nguyễn Hữu Hiển",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:28:29.146Z"
+    },
+    {
+      "studentId": "SE180283",
+      "name": "Nguyễn Thụy Minh Hạnh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:30:00.995Z"
+    },
+    {
+      "studentId": "SE180286",
+      "name": "Hoàng Thành Long",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:30:31.562Z"
+    },
+    {
+      "studentId": "SE180293",
+      "name": "Đàm Hải Hiện",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:31:42.978Z"
+    },
+    {
+      "studentId": "SE180300",
+      "name": "Nguyễn Đình Khôi",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:32:55.129Z"
+    },
+    {
+      "studentId": "SE180306",
+      "name": "Nròng Mbồ Huyên",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:33:56.462Z"
+    },
+    {
+      "studentId": "SE180311",
+      "name": "Nguyễn Hữu Dương",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:34:47.612Z"
+    },
+    {
+      "studentId": "SE180321",
+      "name": "Trần Quang Huy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:38:01.034Z"
+    },
+    {
+      "studentId": "SE180323",
+      "name": "Trần Đức Phát",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:38:21.547Z"
+    },
+    {
+      "studentId": "SE180324",
+      "name": "Nguyễn Minh Hoàng",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:38:32.212Z"
+    },
+    {
+      "studentId": "SE180328",
+      "name": "Nguyễn Thị Thuỳ Ngân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T23:39:13.062Z"
+    },
+    {
+      "studentId": "SE180330",
+      "name": "Nguyễn Trường Bảo Ngọc",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:39:33.512Z"
+    },
+    {
+      "studentId": "SE180333",
+      "name": "Đặng Tài",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:40:04.212Z"
+    },
+    {
+      "studentId": "SE180336",
+      "name": "Dương Công Minh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:40:34.880Z"
+    },
+    {
+      "studentId": "SE180345",
+      "name": "Trịnh Thị Thùy Nhân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:42:06.879Z"
+    },
+    {
+      "studentId": "SE180346",
+      "name": "Ngô Khánh Hưng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:42:17.545Z"
+    },
+    {
+      "studentId": "SE180347",
+      "name": "Phạm Thị Xuân Lan",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:42:28.212Z"
+    },
+    {
+      "studentId": "SE180348",
+      "name": "Trần Viết Đạt",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:42:38.878Z"
+    },
+    {
+      "studentId": "SE180355",
+      "name": "Nguyễn Thành Trung",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:43:50.478Z"
+    },
+    {
+      "studentId": "SE180360",
+      "name": "Trần Mạnh Tuấn",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:44:41.561Z"
+    },
+    {
+      "studentId": "SE180362",
+      "name": "Nguyễn Nhất Huy",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:45:01.995Z"
+    },
+    {
+      "studentId": "SE180364",
+      "name": "Phan Xuân Thắng",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:45:22.397Z"
+    },
+    {
+      "studentId": "SE180370",
+      "name": "Hoàng Đặng Nhật Nam",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:46:23.747Z"
+    },
+    {
+      "studentId": "SE180371",
+      "name": "Vũ Tiến Đạt",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:46:34.445Z"
+    },
+    {
+      "studentId": "SE180382",
+      "name": "Trần Hiếu Hạnh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:48:27.295Z"
+    },
+    {
+      "studentId": "SE180389",
+      "name": "Võ Minh Khoa",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:49:38.828Z"
+    },
+    {
+      "studentId": "SE180392",
+      "name": "Đặng Ngọc Hải Triều",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T23:50:09.511Z"
+    },
+    {
+      "studentId": "SE180397",
+      "name": "Nguyễn Trường Sang",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:51:00.594Z"
+    },
+    {
+      "studentId": "SE180398",
+      "name": "Trần Đặng Minh Quân",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:51:11.294Z"
+    },
+    {
+      "studentId": "SE180417",
+      "name": "Trần Nhật Hoàng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:54:25.362Z"
+    },
+    {
+      "studentId": "SE180418",
+      "name": "Đỗ Nguyễn Quế Hân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:54:36.029Z"
+    },
+    {
+      "studentId": "SE180424",
+      "name": "Bùi Minh Duy",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:55:37.327Z"
+    },
+    {
+      "studentId": "SE180440",
+      "name": "Nguyễn Thành Dương",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:58:20.812Z"
+    },
+    {
+      "studentId": "SE180442",
+      "name": "Trương Sỹ Nam",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-03T23:58:41.246Z"
+    },
+    {
+      "studentId": "SE180445",
+      "name": "Bùi Phước Thắng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-03T23:59:11.878Z"
+    },
+    {
+      "studentId": "SE180449",
+      "name": "Quách Gia Bảo",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-03T23:59:52.728Z"
+    },
+    {
+      "studentId": "SE180458",
+      "name": "Nguyễn Đình Quang Đạo",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T00:01:24.628Z"
+    },
+    {
+      "studentId": "SE180461",
+      "name": "Trần Hoàng Nhật Minh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:01:55.278Z"
+    },
+    {
+      "studentId": "SE180465",
+      "name": "Đỗ Thị Nguyên Hậu",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:02:36.195Z"
+    },
+    {
+      "studentId": "SE180468",
+      "name": "Lê Thị Bình",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:03:06.844Z"
+    },
+    {
+      "studentId": "SE180473",
+      "name": "Lê Đức Trí",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:03:57.979Z"
+    },
+    {
+      "studentId": "SE180474",
+      "name": "Nguyễn Hoàng Minh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T00:04:08.678Z"
+    },
+    {
+      "studentId": "SE180477",
+      "name": "Nguyễn Thành Trí",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:04:39.361Z"
+    },
+    {
+      "studentId": "SE180481",
+      "name": "Lê Hữu Thành Tín",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:05:20.263Z"
+    },
+    {
+      "studentId": "SE180486",
+      "name": "Trần Phạm Thảo Nguyên",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:06:11.462Z"
+    },
+    {
+      "studentId": "SE180500",
+      "name": "Trần Gia Kiệt",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:08:34.995Z"
+    },
+    {
+      "studentId": "SE180503",
+      "name": "Hoàng Văn Lập",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:09:05.628Z"
+    },
+    {
+      "studentId": "SE180516",
+      "name": "Nguyễn Viết Hậu",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:11:18.595Z"
+    },
+    {
+      "studentId": "SE180524",
+      "name": "Phan Khánh Dương",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:12:40.429Z"
+    },
+    {
+      "studentId": "SE180525",
+      "name": "Phan Thành Nam",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:12:51.094Z"
+    },
+    {
+      "studentId": "SE180532",
+      "name": "Nguyễn Thanh Nguyên Khôi",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T00:14:02.612Z"
+    },
+    {
+      "studentId": "SE180538",
+      "name": "Nguyễn Thiện Luân",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:15:04.066Z"
+    },
+    {
+      "studentId": "SE180542",
+      "name": "Lâm Tiểu My",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:15:44.947Z"
+    },
+    {
+      "studentId": "SE180543",
+      "name": "Hoàng Gia Phong",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T00:15:55.631Z"
+    },
+    {
+      "studentId": "SE180562",
+      "name": "Phan Đỗ Hoàng Thao",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:19:10.146Z"
+    },
+    {
+      "studentId": "SE180564",
+      "name": "Bùi Minh Thắng",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:19:30.579Z"
+    },
+    {
+      "studentId": "SE180570",
+      "name": "Trần Như Quỳnh Mai",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:20:31.880Z"
+    },
+    {
+      "studentId": "SE180577",
+      "name": "Nguyễn Lê Nguyệt Minh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:21:43.445Z"
+    },
+    {
+      "studentId": "SE180581",
+      "name": "Đào Công An Phước",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:22:24.345Z"
+    },
+    {
+      "studentId": "SE180586",
+      "name": "Đỗ Nguyên Kha",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:23:15.445Z"
+    },
+    {
+      "studentId": "SE180588",
+      "name": "Lê Gia Thiên",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:23:35.894Z"
+    },
+    {
+      "studentId": "SE180590",
+      "name": "Nguyễn Vũ Bằng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:23:56.344Z"
+    },
+    {
+      "studentId": "SE180591",
+      "name": "Lê Trung Anh Khôi",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T00:24:07.044Z"
+    },
+    {
+      "studentId": "SE180596",
+      "name": "Nguyễn Minh Mẫn",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:24:58.112Z"
+    },
+    {
+      "studentId": "SE180600",
+      "name": "Nguyễn Huỳnh Bảo Trọng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T00:25:39.011Z"
+    },
+    {
+      "studentId": "SE180609",
+      "name": "Mai Nhật Hào",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T00:27:11.162Z"
+    },
+    {
+      "studentId": "SE180619",
+      "name": "Nguyễn Anh Quân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:28:53.428Z"
+    },
+    {
+      "studentId": "SE180638",
+      "name": "Đinh Việt Hoàng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T00:32:07.645Z"
+    },
+    {
+      "studentId": "SE180642",
+      "name": "Nguyễn Hoàng Phúc Bảo",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:32:48.511Z"
+    },
+    {
+      "studentId": "SE180643",
+      "name": "Đinh Vũ Tuấn Anh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:32:59.212Z"
+    },
+    {
+      "studentId": "SE180647",
+      "name": "Nguyễn Thị Thảo Hiền",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:33:40.078Z"
+    },
+    {
+      "studentId": "SE180656",
+      "name": "Trần Thế Vũ",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:35:12.078Z"
+    },
+    {
+      "studentId": "SE180660",
+      "name": "Nguyễn Hồ Minh Tâm",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:35:52.933Z"
+    },
+    {
+      "studentId": "SE180664",
+      "name": "Trương Nguyễn Ngọc Thạch",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:36:33.814Z"
+    },
+    {
+      "studentId": "SE180668",
+      "name": "Lê Võ Bảo Hân",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:37:14.744Z"
+    },
+    {
+      "studentId": "SE180672",
+      "name": "Nguyễn Việt",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:37:55.612Z"
+    },
+    {
+      "studentId": "SE180705",
+      "name": "Hoàng Kim Long",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T00:44:34.162Z"
+    },
+    {
+      "studentId": "SE180708",
+      "name": "Phạm Hoàng Long",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:45:04.879Z"
+    },
+    {
+      "studentId": "SE180709",
+      "name": "Tô Hoàng Kỳ",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:45:15.578Z"
+    },
+    {
+      "studentId": "SE180714",
+      "name": "Nguyễn Quang Nhật",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:46:06.678Z"
+    },
+    {
+      "studentId": "SE180736",
+      "name": "Phan Hoài Khang",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:49:51.328Z"
+    },
+    {
+      "studentId": "SE180740",
+      "name": "Trần Tùng Lâm",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:50:32.362Z"
+    },
+    {
+      "studentId": "SE180743",
+      "name": "Nguyễn Hữu Phước",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:51:03.078Z"
+    },
+    {
+      "studentId": "SE180745",
+      "name": "Trần Minh Anh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:51:23.594Z"
+    },
+    {
+      "studentId": "SE180757",
+      "name": "Trần Trung Kiệt",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T00:53:27.261Z"
+    },
+    {
+      "studentId": "SE180758",
+      "name": "Lê Phạm Trường Huy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T00:53:37.945Z"
+    },
+    {
+      "studentId": "SE180763",
+      "name": "Hoàng Tuấn Hưng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:54:29.029Z"
+    },
+    {
+      "studentId": "SE180769",
+      "name": "Lê Trung Vĩ",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T00:55:30.329Z"
+    },
+    {
+      "studentId": "SE181508",
+      "name": "Lê Thị Ánh Hồng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:50:07.764Z"
+    },
+    {
+      "studentId": "SE181511",
+      "name": "Võ Nguyên Khoa",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:32:05.200Z"
+    },
+    {
+      "studentId": "SE181513",
+      "name": "Lưu Cao Hoàng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:34:17.715Z"
+    },
+    {
+      "studentId": "SE181519",
+      "name": "Nguyễn Thành Danh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:03:04.597Z"
+    },
+    {
+      "studentId": "SE181520",
+      "name": "Hoàng Quốc An",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:21:46.398Z"
+    },
+    {
+      "studentId": "SE181531",
+      "name": "Trần Đình Thịnh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:21:50.764Z"
+    },
+    {
+      "studentId": "SE181532",
+      "name": "Nguyễn Phạm Thanh Bình",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:34:06.638Z"
+    },
+    {
+      "studentId": "SE181549",
+      "name": "Nguyễn Hoàng Đức Minh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:35:36.013Z"
+    },
+    {
+      "studentId": "SE181551",
+      "name": "Nguyễn Đức Hoàng Vũ",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:12:31.671Z"
+    },
+    {
+      "studentId": "SE181556",
+      "name": "Võ Quang Minh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:33:53.648Z"
+    },
+    {
+      "studentId": "SE181559",
+      "name": "Nguyễn Ngô Anh Tú",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:34:01.826Z"
+    },
+    {
+      "studentId": "SE181585",
+      "name": "Nguyễn Thị Hồng Hạnh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:50:16.345Z"
+    },
+    {
+      "studentId": "SE181587",
+      "name": "Dương Công Sơn",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:51:16.246Z"
+    },
+    {
+      "studentId": "SE181597",
+      "name": "Hoàng Chí Trung",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:43:39.169Z"
+    },
+    {
+      "studentId": "SE181663",
+      "name": "Nguyễn Văn Minh Thoại",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:25:45.799Z"
+    },
+    {
+      "studentId": "SE181673",
+      "name": "Lê Đức Lộc",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:30:10.714Z"
+    },
+    {
+      "studentId": "SE181674",
+      "name": "Nguyễn Trung Kiên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:30:22.797Z"
+    },
+    {
+      "studentId": "SE181687",
+      "name": "Nguyễn Vũ Linh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:58:17.414Z"
+    },
+    {
+      "studentId": "SE181690",
+      "name": "Biện Khắc Hội",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:27:09.996Z"
+    },
+    {
+      "studentId": "SE181694",
+      "name": "Nguyễn Hồ Quốc Bảo",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:09:21.668Z"
+    },
+    {
+      "studentId": "SE181697",
+      "name": "Tống Nguyễn Thành Đô",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:46:11.082Z"
+    },
+    {
+      "studentId": "SE181729",
+      "name": "Nguyễn Cao Trí",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:25:33.615Z"
+    },
+    {
+      "studentId": "SE181735",
+      "name": "Trần Công Tường",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:25:39.664Z"
+    },
+    {
+      "studentId": "SE181740",
+      "name": "Lưu Thế Vinh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:30:16.730Z"
+    },
+    {
+      "studentId": "SE181742",
+      "name": "Nguyễn Bùi Quốc Huy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:27:34.080Z"
+    },
+    {
+      "studentId": "SE181755",
+      "name": "Đinh Lê Thịnh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:36:42.282Z"
+    },
+    {
+      "studentId": "SE181764",
+      "name": "Giao Vĩnh Hưng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:31:41.063Z"
+    },
+    {
+      "studentId": "SE181765",
+      "name": "Lê Hữu Nghĩa",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:32:25.083Z"
+    },
+    {
+      "studentId": "SE181770",
+      "name": "Nguyễn Thanh Phong",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:25:27.597Z"
+    },
+    {
+      "studentId": "SE181773",
+      "name": "Nguyễn Ngọc Tiến",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:12:25.531Z"
+    },
+    {
+      "studentId": "SE181783",
+      "name": "Hoàng Ngọc Tiến",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:31:29.031Z"
+    },
+    {
+      "studentId": "SE181790",
+      "name": "Nguyễn Thanh Bình",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T15:00:31.165Z"
+    },
+    {
+      "studentId": "SE181868",
+      "name": "Trần Quốc Thắng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:06:47.531Z"
+    },
+    {
+      "studentId": "SE181874",
+      "name": "Nguyễn Hoàng Mai Anh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:15:49.363Z"
+    },
+    {
+      "studentId": "SE181923",
+      "name": "Tăng Phát",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T15:00:13.432Z"
+    },
+    {
+      "studentId": "SE181925",
+      "name": "Nguyễn Hưng Thịnh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:29:22.512Z"
+    },
+    {
+      "studentId": "SE181937",
+      "name": "Nguyễn Trần Gia Bảo",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T15:00:37.503Z"
+    },
+    {
+      "studentId": "SE181942",
+      "name": "Lê Quốc Bảo",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:30:04.681Z"
+    },
+    {
+      "studentId": "SE181944",
+      "name": "Nguyễn Minh Khoa",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:53:12.914Z"
+    },
+    {
+      "studentId": "SE181977",
+      "name": "Phạm Thanh Ngân",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:59:21.650Z"
+    },
+    {
+      "studentId": "SE182027",
+      "name": "Phạm Minh Trường",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:54:11.162Z"
+    },
+    {
+      "studentId": "SE182028",
+      "name": "Nguyễn Thanh Trí",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:27:28.097Z"
+    },
+    {
+      "studentId": "SE182085",
+      "name": "Lê Hữu Thông",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:53:04.415Z"
+    },
+    {
+      "studentId": "SE182147",
+      "name": "Phạm Minh Nhật",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:51:44.031Z"
+    },
+    {
+      "studentId": "SE182176",
+      "name": "Trần Gia Thy",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:47:57.197Z"
+    },
+    {
+      "studentId": "SE182227",
+      "name": "Mạc Anh Hào",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:52:48.381Z"
+    },
+    {
+      "studentId": "SE182230",
+      "name": "Nguyễn Thiên Duy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:22:51.015Z"
+    },
+    {
+      "studentId": "SE182274",
+      "name": "Phạm Tiến Mạnh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:30:29.014Z"
+    },
+    {
+      "studentId": "SE182277",
+      "name": "Phùng Minh Thiện",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:12:19.130Z"
+    },
+    {
+      "studentId": "SE182292",
+      "name": "Trần Lưu Lâm Hoàng",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:11:36.581Z"
+    },
+    {
+      "studentId": "SE182297",
+      "name": "Nguyễn Hoàng Thiên",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:05:05.080Z"
+    },
+    {
+      "studentId": "SE182314",
+      "name": "Hoàng Thanh Duy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:30:52.931Z"
+    },
+    {
+      "studentId": "SE182318",
+      "name": "Lê Phước Trung Tín",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:58:42.511Z"
+    },
+    {
+      "studentId": "SE182319",
+      "name": "Phạm Huỳnh Bảo Toàn",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:23:57.265Z"
+    },
+    {
+      "studentId": "SE182329",
+      "name": "Trương Thiên Lộc",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:08:31.348Z"
+    },
+    {
+      "studentId": "SE182363",
+      "name": "Nguyễn Tiến Thuận",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:35:44.513Z"
+    },
+    {
+      "studentId": "SE182365",
+      "name": "Phan Nguyễn Mạnh Cường",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:02:47.798Z"
+    },
+    {
+      "studentId": "SE182368",
+      "name": "Ngô Quang Minh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:02:52.546Z"
+    },
+    {
+      "studentId": "SE182373",
+      "name": "Nguyễn Trần Thanh Long",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:02:22.431Z"
+    },
+    {
+      "studentId": "SE182416",
+      "name": "Võ Minh Quân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:23:51.231Z"
+    },
+    {
+      "studentId": "SE182419",
+      "name": "Đỗ Thành Đạt",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:02:40.497Z"
+    },
+    {
+      "studentId": "SE182432",
+      "name": "Trần Viết Trà Lâm",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:02:34.531Z"
+    },
+    {
+      "studentId": "SE182445",
+      "name": "Nguyễn Nhật Trường",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:02:58.614Z"
+    },
+    {
+      "studentId": "SE182448",
+      "name": "Lê Hoàng Công Huy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:04:53.231Z"
+    },
+    {
+      "studentId": "SE182468",
+      "name": "Trần Trọng An",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:07:00.033Z"
+    },
+    {
+      "studentId": "SE182490",
+      "name": "Võ Hoàng Trung",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:27:16.014Z"
+    },
+    {
+      "studentId": "SE182506",
+      "name": "Đoàn Tín Nghĩa",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:16:43.998Z"
+    },
+    {
+      "studentId": "SE182507",
+      "name": "Huỳnh Gia Bảo",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:26:58.015Z"
+    },
+    {
+      "studentId": "SE182524",
+      "name": "Trương Phúc Lộc",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:05:21.614Z"
+    },
+    {
+      "studentId": "SE182526",
+      "name": "Nguyễn Chí Cường",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:12:15.692Z"
+    },
+    {
+      "studentId": "SE182538",
+      "name": "Cao Đình Giáp",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:12:01.567Z"
+    },
+    {
+      "studentId": "SE182549",
+      "name": "Trần Chí Tâm",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:35:49.914Z"
+    },
+    {
+      "studentId": "SE182554",
+      "name": "Phan Mạnh Khôi",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:35:59.998Z"
+    },
+    {
+      "studentId": "SE182563",
+      "name": "Hoàng Võ Đông Nghi",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:26:51.965Z"
+    },
+    {
+      "studentId": "SE182573",
+      "name": "Hà Trọng Tấn",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:50:31.831Z"
+    },
+    {
+      "studentId": "SE182582",
+      "name": "Bùi Gia Huy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:24:57.647Z"
+    },
+    {
+      "studentId": "SE182602",
+      "name": "Lê Huy Vũ",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:27:40.115Z"
+    },
+    {
+      "studentId": "SE182609",
+      "name": "Trần Ngọc Thành Nam",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:47:45.364Z"
+    },
+    {
+      "studentId": "SE182625",
+      "name": "Đoàn Công Thành",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:23:15.081Z"
+    },
+    {
+      "studentId": "SE182629",
+      "name": "Hồ Vũ Khôi",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:52:52.667Z"
+    },
+    {
+      "studentId": "SE182634",
+      "name": "Trần Hồ Quốc Anh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:23:03.064Z"
+    },
+    {
+      "studentId": "SE182641",
+      "name": "Nguyễn Đức Anh Minh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:23:10.148Z"
+    },
+    {
+      "studentId": "SE182689",
+      "name": "Lê Minh Đăng Khoa",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:20:38.615Z"
+    },
+    {
+      "studentId": "SE182700",
+      "name": "Huỳnh Kim Cương",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:20:32.531Z"
+    },
+    {
+      "studentId": "SE182709",
+      "name": "Nguyễn Ngọc Thảo",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:20:44.648Z"
+    },
+    {
+      "studentId": "SE182712",
+      "name": "Lê Bảo Châu",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:20:50.914Z"
+    },
+    {
+      "studentId": "SE182727",
+      "name": "Nguyễn Quốc Sơn",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:32:17.482Z"
+    },
+    {
+      "studentId": "SE182743",
+      "name": "Nguyễn Trần Phương An",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:20:56.531Z"
+    },
+    {
+      "studentId": "SE182744",
+      "name": "Văn Kính Kiệt",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:32:29.682Z"
+    },
+    {
+      "studentId": "SE182746",
+      "name": "Lưu Hoàn Anh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:53:52.650Z"
+    },
+    {
+      "studentId": "SE182750",
+      "name": "Cao Thế Quân",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:32:11.197Z"
+    },
+    {
+      "studentId": "SE182756",
+      "name": "Trần Đức Thịnh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:28:34.364Z"
+    },
+    {
+      "studentId": "SE182759",
+      "name": "Lữ Gia Bảo",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:02:28.906Z"
+    },
+    {
+      "studentId": "SE182765",
+      "name": "Hà Anh Khang",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:16:01.448Z"
+    },
+    {
+      "studentId": "SE182774",
+      "name": "Nguyễn Hải Quân",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:16:07.548Z"
+    },
+    {
+      "studentId": "SE182857",
+      "name": "Vũ Quang Huy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:49:13.182Z"
+    },
+    {
+      "studentId": "SE182869",
+      "name": "Phạm Minh Tuấn",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:11:01.364Z"
+    },
+    {
+      "studentId": "SE182892",
+      "name": "Hoàng Trung Tín",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:10:48.351Z"
+    },
+    {
+      "studentId": "SE182895",
+      "name": "Phạm Văn Như Quỳnh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:57:53.414Z"
+    },
+    {
+      "studentId": "SE182901",
+      "name": "Lê Minh Quân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:52:40.579Z"
+    },
+    {
+      "studentId": "SE182903",
+      "name": "Trần Văn Hứa Trí",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:58:01.447Z"
+    },
+    {
+      "studentId": "SE182908",
+      "name": "Nguyễn Anh Phúc",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:55:23.582Z"
+    },
+    {
+      "studentId": "SE182916",
+      "name": "Nguyễn Ngọc Trai",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:09:05.429Z"
+    },
+    {
+      "studentId": "SE182951",
+      "name": "Đặng Mai Anh Tú",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:32:38.370Z"
+    },
+    {
+      "studentId": "SE182958",
+      "name": "Huỳnh Quốc Khang",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:33:41.664Z"
+    },
+    {
+      "studentId": "SE182978",
+      "name": "Lưu Thuỳ Dương",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:07:47.764Z"
+    },
+    {
+      "studentId": "SE182981",
+      "name": "Lê Nguyễn Tuấn Nghĩa",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:19:38.281Z"
+    },
+    {
+      "studentId": "SE182989",
+      "name": "Trần Quốc Cường",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:59:29.781Z"
+    },
+    {
+      "studentId": "SE183004",
+      "name": "Nguyễn Ngọc Minh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:19:44.263Z"
+    },
+    {
+      "studentId": "SE183008",
+      "name": "Trần Nguyễn Việt Quang",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:19:26.297Z"
+    },
+    {
+      "studentId": "SE183010",
+      "name": "Nguyễn Trần Khánh Kiên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:03:22.665Z"
+    },
+    {
+      "studentId": "SE183031",
+      "name": "Huỳnh Nguyễn Quế Trân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:56:23.845Z"
+    },
+    {
+      "studentId": "SE183033",
+      "name": "Nguyễn Minh Trí",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:03:16.614Z"
+    },
+    {
+      "studentId": "SE183037",
+      "name": "Huỳnh Ngọc Khánh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:03:35.664Z"
+    },
+    {
+      "studentId": "SE183042",
+      "name": "Nguyễn Đại Thịnh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:32:53.430Z"
+    },
+    {
+      "studentId": "SE183043",
+      "name": "Chế Gia Huy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T15:00:19.148Z"
+    },
+    {
+      "studentId": "SE183064",
+      "name": "Trần Trung Hiếu",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:50:39.816Z"
+    },
+    {
+      "studentId": "SE183096",
+      "name": "Vũ Hoàng Hiếu Ngân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:59:51.865Z"
+    },
+    {
+      "studentId": "SE183104",
+      "name": "Nguyễn Song Toàn",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:28:04.197Z"
+    },
+    {
+      "studentId": "SE183118",
+      "name": "Nguyễn Hoàng Nam",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:49:27.465Z"
+    },
+    {
+      "studentId": "SE183134",
+      "name": "Trần Văn Duy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:11:13.984Z"
+    },
+    {
+      "studentId": "SE183138",
+      "name": "Lưu Quang Hòa",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:15:25.298Z"
+    },
+    {
+      "studentId": "SE183143",
+      "name": "Lê Minh Thiện",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:59:45.831Z"
+    },
+    {
+      "studentId": "SE183145",
+      "name": "Trần Đức Hiệu",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:01:53.083Z"
+    },
+    {
+      "studentId": "SE183151",
+      "name": "Nguyễn Lê Kim Ngân",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:56:57.081Z"
+    },
+    {
+      "studentId": "SE183164",
+      "name": "Võ Nguyễn Anh Khoa",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:04:00.785Z"
+    },
+    {
+      "studentId": "SE183172",
+      "name": "Nguyễn Trung Dũng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:04:17.580Z"
+    },
+    {
+      "studentId": "SE183179",
+      "name": "Nguyễn Thế Trung",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:28:28.297Z"
+    },
+    {
+      "studentId": "SE183194",
+      "name": "Tạ Khắc Khoan",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:17:49.832Z"
+    },
+    {
+      "studentId": "SE183202",
+      "name": "Huỳnh Việt Khoa",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:50:55.898Z"
+    },
+    {
+      "studentId": "SE183214",
+      "name": "Phạm Nguyên Khoa",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:28:22.279Z"
+    },
+    {
+      "studentId": "SE183227",
+      "name": "Mai Trúc Phương",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:18:31.997Z"
+    },
+    {
+      "studentId": "SE183243",
+      "name": "Châu Vĩnh Tiến",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:59:37.813Z"
+    },
+    {
+      "studentId": "SE183248",
+      "name": "Nguyễn Hà Mai Hân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:05:29.265Z"
+    },
+    {
+      "studentId": "SE183261",
+      "name": "Nguyễn Quốc Huy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:05:53.347Z"
+    },
+    {
+      "studentId": "SE183263",
+      "name": "Nguyễn Thiên Hưng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:47:51.745Z"
+    },
+    {
+      "studentId": "SE183272",
+      "name": "Tằng Ngọc Trang Anh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:04:22.948Z"
+    },
+    {
+      "studentId": "SE183282",
+      "name": "Hoàng Hữu Nam",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:15:31.347Z"
+    },
+    {
+      "studentId": "SE183295",
+      "name": "Trần Hữu Kiến Quốc",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:05:41.247Z"
+    },
+    {
+      "studentId": "SE183308",
+      "name": "Trương Đình Khoa",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:18:38.048Z"
+    },
+    {
+      "studentId": "SE183314",
+      "name": "Đinh Vương Thiên Tứ",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:14:13.031Z"
+    },
+    {
+      "studentId": "SE183323",
+      "name": "Phan Võ Thành Tài",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:05:36.682Z"
+    },
+    {
+      "studentId": "SE183347",
+      "name": "Vưu Nhật Khang",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:00:40.031Z"
+    },
+    {
+      "studentId": "SE183358",
+      "name": "Nguyễn Bá Nhân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:18:25.981Z"
+    },
+    {
+      "studentId": "SE183374",
+      "name": "Dương Thành Phát",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:44:29.351Z"
+    },
+    {
+      "studentId": "SE183377",
+      "name": "Trương Điền Quốc Bảo",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:15:13.364Z"
+    },
+    {
+      "studentId": "SE183392",
+      "name": "Huỳnh Ngọc Hậu",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:18:20.064Z"
+    },
+    {
+      "studentId": "SE183402",
+      "name": "Hoàng Quốc Việt",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:53:53.280Z"
+    },
+    {
+      "studentId": "SE183403",
+      "name": "Phạm Tuấn Anh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:00:27.998Z"
+    },
+    {
+      "studentId": "SE183404",
+      "name": "Bùi Quang Vinh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:57:13.248Z"
+    },
+    {
+      "studentId": "SE183410",
+      "name": "Huỳnh Quốc Việt",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:14:25.133Z"
+    },
+    {
+      "studentId": "SE183413",
+      "name": "Nguyễn Hoàng Trí",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:00:58.032Z"
+    },
+    {
+      "studentId": "SE183444",
+      "name": "Văn Phú Quốc Thịnh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:33:48.581Z"
+    },
+    {
+      "studentId": "SE183450",
+      "name": "Đỗ Kỳ Dũng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:17:37.814Z"
+    },
+    {
+      "studentId": "SE183464",
+      "name": "Thi Hoà Minh Trang",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:48:27.411Z"
+    },
+    {
+      "studentId": "SE183465",
+      "name": "Đoàn Vũ Tiến Phát",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:17:43.813Z"
+    },
+    {
+      "studentId": "SE183474",
+      "name": "Nguyễn Ngọc Hiếu",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:34:11.667Z"
+    },
+    {
+      "studentId": "SE183485",
+      "name": "Phạm Trung Tín",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:18:44.047Z"
+    },
+    {
+      "studentId": "SE183494",
+      "name": "Đoàn Ngọc Trung",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:34:41.781Z"
+    },
+    {
+      "studentId": "SE183495",
+      "name": "Phan Anh Khoa",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:35:00.764Z"
+    },
+    {
+      "studentId": "SE183498",
+      "name": "Huỳnh Nhật Huy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:00:03.898Z"
+    },
+    {
+      "studentId": "SE183521",
+      "name": "Nguyễn Quang Hưng",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:04:47.081Z"
+    },
+    {
+      "studentId": "SE183534",
+      "name": "Nguyễn Hồ Quốc Thắng",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:51:28.613Z"
+    },
+    {
+      "studentId": "SE183540",
+      "name": "Lê Cao Kha",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:54:41.568Z"
+    },
+    {
+      "studentId": "SE183545",
+      "name": "Lê Minh Thống",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:28:16.247Z"
+    },
+    {
+      "studentId": "SE183550",
+      "name": "Vũ An Khang",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:51:40.595Z"
+    },
+    {
+      "studentId": "SE183564",
+      "name": "Hồ Lê Bình",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:48:37.961Z"
+    },
+    {
+      "studentId": "SE183572",
+      "name": "Huỳnh Minh Phúc",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:22:44.981Z"
+    },
+    {
+      "studentId": "SE183591",
+      "name": "Nguyễn Quang Nguyên",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:36:12.231Z"
+    },
+    {
+      "studentId": "SE183593",
+      "name": "Trần Lạc Duy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:19:55.064Z"
+    },
+    {
+      "studentId": "SE183596",
+      "name": "Nguyễn Phan Tấn Lộc",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:21:09.631Z"
+    },
+    {
+      "studentId": "SE183602",
+      "name": "Nguyễn Ngọc Thạch",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:04:41.014Z"
+    },
+    {
+      "studentId": "SE183603",
+      "name": "Phạm Quốc Tuấn",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:04:29.981Z"
+    },
+    {
+      "studentId": "SE183607",
+      "name": "Hồ Thành Long",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:04:35.098Z"
+    },
+    {
+      "studentId": "SE183616",
+      "name": "Võ Hoàng Tuấn Kiệt",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:08:24.884Z"
+    },
+    {
+      "studentId": "SE183626",
+      "name": "Trịnh Thị Vân Anh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:42:04.784Z"
+    },
+    {
+      "studentId": "SE183638",
+      "name": "Trần Sơn Triều",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:06:15.341Z"
+    },
+    {
+      "studentId": "SE183658",
+      "name": "Trương Thị Thanh Huyền",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:42:29.864Z"
+    },
+    {
+      "studentId": "SE183661",
+      "name": "Lê Hải Đăng",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:26:27.897Z"
+    },
+    {
+      "studentId": "SE183665",
+      "name": "Nguyễn Phạm Công Hậu",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:26:33.847Z"
+    },
+    {
+      "studentId": "SE183680",
+      "name": "Nguyễn Hoàng Gia Thịnh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:11:06.364Z"
+    },
+    {
+      "studentId": "SE183683",
+      "name": "Trịnh Đức Anh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:28:46.363Z"
+    },
+    {
+      "studentId": "SE183695",
+      "name": "Nguyễn Thiện Nghĩa",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:48:42.461Z"
+    },
+    {
+      "studentId": "SE183713",
+      "name": "Trương Bảo Ngọc",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:05:23.231Z"
+    },
+    {
+      "studentId": "SE183714",
+      "name": "Nguyễn Quốc Minh Hiếu",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:24:28.381Z"
+    },
+    {
+      "studentId": "SE183722",
+      "name": "Lưu Minh Quân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:18:57.148Z"
+    },
+    {
+      "studentId": "SE183730",
+      "name": "Võ Hoàng Công Trí",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:19:14.148Z"
+    },
+    {
+      "studentId": "SE183734",
+      "name": "Nguyễn Tuấn Kiệt",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:19:08.181Z"
+    },
+    {
+      "studentId": "SE183755",
+      "name": "Nguyễn Thành Trung",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:58:33.563Z"
+    },
+    {
+      "studentId": "SE183776",
+      "name": "Trịnh Nguyễn Yến Vy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:00:34.014Z"
+    },
+    {
+      "studentId": "SE183799",
+      "name": "Huỳnh Công Minh Trí",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:10:24.283Z"
+    },
+    {
+      "studentId": "SE183802",
+      "name": "Đặng Kiến Ninh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:48:32.427Z"
+    },
+    {
+      "studentId": "SE183806",
+      "name": "Nguyễn Đức Lê Khiết",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:56:25.063Z"
+    },
+    {
+      "studentId": "SE183829",
+      "name": "Nguyễn Đức Thắng",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:19:03.948Z"
+    },
+    {
+      "studentId": "SE183832",
+      "name": "Lê Hoàng Khánh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:00:09.929Z"
+    },
+    {
+      "studentId": "SE183836",
+      "name": "Nguyễn Thị Yến Vy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:06:06.947Z"
+    },
+    {
+      "studentId": "SE183845",
+      "name": "Lã Bùi Nhật Nam",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:42:20.298Z"
+    },
+    {
+      "studentId": "SE183850",
+      "name": "Trần Huỳnh Bảo Ngọc",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:10:42.282Z"
+    },
+    {
+      "studentId": "SE183865",
+      "name": "Nguyễn Huỳnh Phúc Linh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:29:46.698Z"
+    },
+    {
+      "studentId": "SE183868",
+      "name": "Nguyễn Trí Quyết",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:00:15.946Z"
+    },
+    {
+      "studentId": "SE183876",
+      "name": "Nguyễn Hiền Trung Nam",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:27:58.181Z"
+    },
+    {
+      "studentId": "SE183885",
+      "name": "Uông Đình Dũng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:23:27.756Z"
+    },
+    {
+      "studentId": "SE183888",
+      "name": "Tô Minh Tuyền",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:28:10.230Z"
+    },
+    {
+      "studentId": "SE183895",
+      "name": "Nguyễn Trí Hoàng Thân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:13:36.964Z"
+    },
+    {
+      "studentId": "SE183899",
+      "name": "Nguyễn Nhật Minh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:36:18.164Z"
+    },
+    {
+      "studentId": "SE183927",
+      "name": "Trần Ngọc Quang",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:56:17.030Z"
+    },
+    {
+      "studentId": "SE183945",
+      "name": "Nguyễn Đăng Khoa",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:48:07.347Z"
+    },
+    {
+      "studentId": "SE183963",
+      "name": "Phan Tuấn An",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:21:02.545Z"
+    },
+    {
+      "studentId": "SE183980",
+      "name": "Hồ Trần Quang Phúc",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:47:57.779Z"
+    },
+    {
+      "studentId": "SE183982",
+      "name": "Ngô Hướng Thiên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:21:14.663Z"
+    },
+    {
+      "studentId": "SE184023",
+      "name": "Tô Thị Minh Thảo",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:01:10.048Z"
+    },
+    {
+      "studentId": "SE184030",
+      "name": "Phạm Thị Thanh Ngân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:09:48.149Z"
+    },
+    {
+      "studentId": "SE184031",
+      "name": "Quách Hữu Khang",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:52:16.096Z"
+    },
+    {
+      "studentId": "SE184056",
+      "name": "Trần Quang Khoa",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:20:21.698Z"
+    },
+    {
+      "studentId": "SE184069",
+      "name": "Phạm Đức Nghĩa",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:27:52.165Z"
+    },
+    {
+      "studentId": "SE184077",
+      "name": "Nguyễn Anh Gia Huy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:28:40.348Z"
+    },
+    {
+      "studentId": "SE184078",
+      "name": "Trần Quang Duy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:09:12.016Z"
+    },
+    {
+      "studentId": "SE184085",
+      "name": "Nguyễn Thanh Mai",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:25:51.698Z"
+    },
+    {
+      "studentId": "SE184097",
+      "name": "Lê Quang Thái Sơn",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:27:46.130Z"
+    },
+    {
+      "studentId": "SE184099",
+      "name": "Phan Xuân Phú",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:33:30.085Z"
+    },
+    {
+      "studentId": "SE184107",
+      "name": "Châu Phú Hào",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:32:41.347Z"
+    },
+    {
+      "studentId": "SE184113",
+      "name": "Trương Hoàng Long",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:23:21.095Z"
+    },
+    {
+      "studentId": "SE184131",
+      "name": "Nguyễn Thanh Hưng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:00:46.065Z"
+    },
+    {
+      "studentId": "SE184160",
+      "name": "Huỳnh Vương Khang",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:30:34.880Z"
+    },
+    {
+      "studentId": "SE184168",
+      "name": "Phạm Khang Nguyên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:28:58.448Z"
+    },
+    {
+      "studentId": "SE184169",
+      "name": "Đặng Ngọc Sáng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:43:48.719Z"
+    },
+    {
+      "studentId": "SE184185",
+      "name": "Lê Minh Quang",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:08:06.764Z"
+    },
+    {
+      "studentId": "SE184189",
+      "name": "Trần Hoàng Vũ",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:54:32.599Z"
+    },
+    {
+      "studentId": "SE184209",
+      "name": "Nguyễn Ngọc Khánh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:10:30.248Z"
+    },
+    {
+      "studentId": "SE184224",
+      "name": "Nguyễn Ngọc Uyên Phương",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:48:12.362Z"
+    },
+    {
+      "studentId": "SE184228",
+      "name": "Nguyễn Tiến Mạnh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:29:28.547Z"
+    },
+    {
+      "studentId": "SE184247",
+      "name": "Đoàn Nguyên Khang",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:54:47.563Z"
+    },
+    {
+      "studentId": "SE184261",
+      "name": "Nguyễn Phạm Thu Hà",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:52:09.415Z"
+    },
+    {
+      "studentId": "SE184271",
+      "name": "Đặng Nguyễn Hải Nam",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:03:46.748Z"
+    },
+    {
+      "studentId": "SE184275",
+      "name": "Phàm Dân Minh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:54:53.596Z"
+    },
+    {
+      "studentId": "SE184277",
+      "name": "Phạm Tấn Phát",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:10:37.518Z"
+    },
+    {
+      "studentId": "SE184301",
+      "name": "Nguyễn Minh Thuận",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:14:55.180Z"
+    },
+    {
+      "studentId": "SE184307",
+      "name": "Phan Hoàng Ngọc Hân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:17:07.681Z"
+    },
+    {
+      "studentId": "SE184328",
+      "name": "Phạm Hùng Dũng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:30:46.964Z"
+    },
+    {
+      "studentId": "SE184333",
+      "name": "Nguyễn Hoàng Tuệ Sang",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:26:09.765Z"
+    },
+    {
+      "studentId": "SE184335",
+      "name": "Trần Quảng Quân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:51:11.863Z"
+    },
+    {
+      "studentId": "SE184349",
+      "name": "Mạch Gia Hào",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:26:21.848Z"
+    },
+    {
+      "studentId": "SE184368",
+      "name": "Phạm Nhật Khoa",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:06:29.064Z"
+    },
+    {
+      "studentId": "SE184376",
+      "name": "Võ Minh Luân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:03:52.798Z"
+    },
+    {
+      "studentId": "SE184386",
+      "name": "Nguyễn Minh Tuấn",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:29:34.681Z"
+    },
+    {
+      "studentId": "SE184406",
+      "name": "Bùi Minh Hiếu",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:44:34.368Z"
+    },
+    {
+      "studentId": "SE184410",
+      "name": "Trương Tấn Triệu",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:33:35.530Z"
+    },
+    {
+      "studentId": "SE184437",
+      "name": "Đặng Hồ Tuấn Cường",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:29:40.597Z"
+    },
+    {
+      "studentId": "SE184451",
+      "name": "Đỗ Quang Dũng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:20:15.365Z"
+    },
+    {
+      "studentId": "SE184505",
+      "name": "Phan Quang Minh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:26:39.864Z"
+    },
+    {
+      "studentId": "SE184514",
+      "name": "Phạm Thế Danh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:26:03.730Z"
+    },
+    {
+      "studentId": "SE184515",
+      "name": "Nguyễn Văn Hoàng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:26:46.014Z"
+    },
+    {
+      "studentId": "SE184516",
+      "name": "Lê Long Song Thiên",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:06:30.517Z"
+    },
+    {
+      "studentId": "SE184519",
+      "name": "Trần Chí Thuận",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:25:57.714Z"
+    },
+    {
+      "studentId": "SE184531",
+      "name": "Nguyễn Hoàng Phụng",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:57:37.347Z"
+    },
+    {
+      "studentId": "SE184532",
+      "name": "Trần Xuân Trường",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:57:21.280Z"
+    },
+    {
+      "studentId": "SE184551",
+      "name": "Đặng Bá Văn",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:55:05.333Z"
+    },
+    {
+      "studentId": "SE184596",
+      "name": "Trần Thiện Duy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:14:49.164Z"
+    },
+    {
+      "studentId": "SE184605",
+      "name": "Lê Huỳnh Minh Duy",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:01:58.330Z"
+    },
+    {
+      "studentId": "SE184622",
+      "name": "Trịnh Hải Đức",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:49:15.811Z"
+    },
+    {
+      "studentId": "SE184629",
+      "name": "Hỷ Minh Phát",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:49:22.112Z"
+    },
+    {
+      "studentId": "SE184633",
+      "name": "Lê Viết Hoàng Hiệp",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:48:02.310Z"
+    },
+    {
+      "studentId": "SE184635",
+      "name": "Phạm Hồ Tấn Đạt",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:18:03.247Z"
+    },
+    {
+      "studentId": "SE184638",
+      "name": "Lê Tuấn Khanh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:49:28.129Z"
+    },
+    {
+      "studentId": "SE184639",
+      "name": "Nguyễn Xuân Thắng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:06:41.481Z"
+    },
+    {
+      "studentId": "SE184644",
+      "name": "Lê Thiên Phúc",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:18:08.899Z"
+    },
+    {
+      "studentId": "SE184654",
+      "name": "Lu Tử Kiệt",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:06:53.548Z"
+    },
+    {
+      "studentId": "SE184659",
+      "name": "Nguyễn Tấn Tài",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:47:09.595Z"
+    },
+    {
+      "studentId": "SE184665",
+      "name": "Vũ Minh Đạt",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:46:57.545Z"
+    },
+    {
+      "studentId": "SE184684",
+      "name": "Trần Phạm Bách Cát",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:57:29.314Z"
+    },
+    {
+      "studentId": "SE184685",
+      "name": "Nguyễn Văn Cường",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:44:49.435Z"
+    },
+    {
+      "studentId": "SE184696",
+      "name": "Nguyễn Phúc Nhân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:34:54.514Z"
+    },
+    {
+      "studentId": "SE184713",
+      "name": "Cao Hoàng Nhật",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:47:03.579Z"
+    },
+    {
+      "studentId": "SE184725",
+      "name": "Trịnh Tiến Đạt",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:10:54.398Z"
+    },
+    {
+      "studentId": "SE184731",
+      "name": "Nguyễn Quốc Anh Khoa",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:02:04.881Z"
+    },
+    {
+      "studentId": "SE184747",
+      "name": "Tạ Quý Minh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:06:36.348Z"
+    },
+    {
+      "studentId": "SE184763",
+      "name": "Khưu Thành Tài",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:59:57.883Z"
+    },
+    {
+      "studentId": "SE184794",
+      "name": "Phạm Hữu Nhật Minh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:14:37.115Z"
+    },
+    {
+      "studentId": "SE184796",
+      "name": "Nguyễn Quang Minh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:14:43.148Z"
+    },
+    {
+      "studentId": "SE184816",
+      "name": "Huỳnh Tuấn Phát",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:16:26.481Z"
+    },
+    {
+      "studentId": "SE184826",
+      "name": "Phạm Nhất Thống",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:33:23.849Z"
+    },
+    {
+      "studentId": "SE184834",
+      "name": "Nguyễn Nhật Trường",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:33:11.564Z"
+    },
+    {
+      "studentId": "SE184871",
+      "name": "Lưu Kiến Lân",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:13:14.350Z"
+    },
+    {
+      "studentId": "SE184874",
+      "name": "Nguyễn Công Phi",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:54:16.546Z"
+    },
+    {
+      "studentId": "SE184884",
+      "name": "Phan Anh Kỳ",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T13:42:14.814Z"
+    },
+    {
+      "studentId": "SE184888",
+      "name": "Chu Quốc Thành",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:25:09.547Z"
+    },
+    {
+      "studentId": "SE184899",
+      "name": "Nguyễn Chí Hào",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:02:17.265Z"
+    },
+    {
+      "studentId": "SE184900",
+      "name": "Bùi Phạm Hoàng Lam",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:32:59.380Z"
+    },
+    {
+      "studentId": "SE184909",
+      "name": "Nguyễn Minh Khoa",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:57:45.383Z"
+    },
+    {
+      "studentId": "SE184931",
+      "name": "Phan Quang Huy",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:35:31.648Z"
+    },
+    {
+      "studentId": "SE184955",
+      "name": "Nguyễn Ngọc Quỳnh Như",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:16:13.480Z"
+    },
+    {
+      "studentId": "SE184993",
+      "name": "Trần Trung Nguyên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:53:47.248Z"
+    },
+    {
+      "studentId": "SE185057",
+      "name": "Bùi Diệp Anh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:16:37.553Z"
+    },
+    {
+      "studentId": "SE185061",
+      "name": "Nguyễn Anh Kiệt",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:04:10.934Z"
+    },
+    {
+      "studentId": "SE185071",
+      "name": "Nguyễn Huy Thiên Hòa",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 2",
+      "fetchedAt": "2026-11-04T14:53:34.930Z"
+    },
+    {
+      "studentId": "SS170896",
+      "name": "Lê Thị Lan Hương",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:54:49.265Z"
+    },
+    {
+      "studentId": "SS170967",
+      "name": "Trần Linh Giang",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:43:33.686Z"
+    },
+    {
+      "studentId": "SS170996",
+      "name": "Nguyễn Văn An",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:44:23.867Z"
+    },
+    {
+      "studentId": "SS171200",
+      "name": "Mai Phúc Hồng Ngân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:54:40.665Z"
+    },
+    {
+      "studentId": "SS180007",
+      "name": "Tạ Đào Phương Thảo",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:24:18.378Z"
+    },
+    {
+      "studentId": "SS180010",
+      "name": "Thái Quốc Huy",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:24:48.995Z"
+    },
+    {
+      "studentId": "SS180018",
+      "name": "Đỗ Phương Linh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:26:10.644Z"
+    },
+    {
+      "studentId": "SS180025",
+      "name": "Ngô Minh Tuệ",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:27:22.161Z"
+    },
+    {
+      "studentId": "SS180026",
+      "name": "Võ Nguyễn Nguyên Quốc",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:27:32.828Z"
+    },
+    {
+      "studentId": "SS180029",
+      "name": "Nguyễn Thị Phương Thảo",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:28:03.428Z"
+    },
+    {
+      "studentId": "SS180031",
+      "name": "Hoàng Khánh Chi",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:28:23.878Z"
+    },
+    {
+      "studentId": "SS180037",
+      "name": "Lê Thảo Vy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:29:25.127Z"
+    },
+    {
+      "studentId": "SS180039",
+      "name": "Vũ Đức Khang",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:29:45.561Z"
+    },
+    {
+      "studentId": "SS180054",
+      "name": "Nguyễn Phương Linh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:32:18.595Z"
+    },
+    {
+      "studentId": "SS180055",
+      "name": "Đặng Thành Phước",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:32:29.261Z"
+    },
+    {
+      "studentId": "SS180059",
+      "name": "Lê Nguyên Khang",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:33:10.128Z"
+    },
+    {
+      "studentId": "SS180066",
+      "name": "Trần Khánh Ngân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:34:21.577Z"
+    },
+    {
+      "studentId": "SS180068",
+      "name": "Nguyễn Hoàng Anh Vũ",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:34:41.977Z"
+    },
+    {
+      "studentId": "SS180072",
+      "name": "Nguyễn Huỳnh Mai Phương",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:35:22.828Z"
+    },
+    {
+      "studentId": "SS180075",
+      "name": "Dương Hồ Thảo Vi",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-03T16:35:53.444Z"
+    },
+    {
+      "studentId": "SS180080",
+      "name": "Võ Đoàn Gia Hân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:36:44.428Z"
+    },
+    {
+      "studentId": "SS180093",
+      "name": "Đinh Phước Tú",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:38:57.128Z"
+    },
+    {
+      "studentId": "SS180094",
+      "name": "Mai Văn Ninh",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 3",
+      "fetchedAt": "2026-11-03T16:39:07.826Z"
+    },
+    {
+      "studentId": "SS180097",
+      "name": "Nguyễn Thị Quỳnh Anh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-03T16:39:38.561Z"
+    },
+    {
+      "studentId": "SS180103",
+      "name": "Bùi Lê Anh Quân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T12:43:48.564Z"
+    },
+    {
+      "studentId": "SS180106",
+      "name": "Nguyễn Trần Huy Hoàng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:44:20.429Z"
+    },
+    {
+      "studentId": "SS180111",
+      "name": "Trần Thị Thuỳ Tiên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:45:13.847Z"
+    },
+    {
+      "studentId": "SS180119",
+      "name": "Nguyễn Lê Ngọc Linh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T12:46:39.865Z"
+    },
+    {
+      "studentId": "SS180121",
+      "name": "Nguyễn Văn Trường An",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:47:01.062Z"
+    },
+    {
+      "studentId": "SS180128",
+      "name": "Phồng Đạt Khìn",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:48:15.413Z"
+    },
+    {
+      "studentId": "SS180129",
+      "name": "Dương Gia Phát",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T12:48:26.111Z"
+    },
+    {
+      "studentId": "SS180131",
+      "name": "Nguyễn Lê Nhật Nam",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:48:47.279Z"
+    },
+    {
+      "studentId": "SS180133",
+      "name": "Phạm Nguyễn Trọng Hùng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:49:08.452Z"
+    },
+    {
+      "studentId": "SS180135",
+      "name": "Nguyễn Thảo Trang",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:49:29.563Z"
+    },
+    {
+      "studentId": "SS180138",
+      "name": "Vy Ngọc Bích",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:50:01.412Z"
+    },
+    {
+      "studentId": "SS180140",
+      "name": "Lê Vĩnh Khánh Huyền",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T12:50:23.098Z"
+    },
+    {
+      "studentId": "SS180141",
+      "name": "Chiêm Mỹ Tiên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:50:33.778Z"
+    },
+    {
+      "studentId": "SS180142",
+      "name": "Võ Thanh Phước",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:50:44.445Z"
+    },
+    {
+      "studentId": "SS180144",
+      "name": "Hoàng Phúc",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T12:51:05.729Z"
+    },
+    {
+      "studentId": "SS180152",
+      "name": "Vũ Thị Huyền Anh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:52:31.130Z"
+    },
+    {
+      "studentId": "SS180154",
+      "name": "Hồ Khánh Hưng",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:52:52.395Z"
+    },
+    {
+      "studentId": "SS180155",
+      "name": "Nguyễn Ngọc Tường Vy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:53:03.061Z"
+    },
+    {
+      "studentId": "SS180158",
+      "name": "Nguyễn Nhật Gia Hân",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:53:34.996Z"
+    },
+    {
+      "studentId": "SS180164",
+      "name": "Võ Hoàng Thảo Nhi",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:54:38.996Z"
+    },
+    {
+      "studentId": "SS180167",
+      "name": "Phan Trần Bảo Yến",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:55:11.480Z"
+    },
+    {
+      "studentId": "SS180178",
+      "name": "Nguyễn Thành Vinh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:57:08.195Z"
+    },
+    {
+      "studentId": "SS180180",
+      "name": "Đỗ Nguyễn Phương Nguyên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:57:29.396Z"
+    },
+    {
+      "studentId": "SS180186",
+      "name": "Trần Thị Thu Hà",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T12:58:33.045Z"
+    },
+    {
+      "studentId": "SS180187",
+      "name": "Huỳnh Phan Như Quỳnh",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T12:58:43.747Z"
+    },
+    {
+      "studentId": "SS180188",
+      "name": "Nguyễn Quốc Chương",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:58:54.429Z"
+    },
+    {
+      "studentId": "SS180190",
+      "name": "Nguyễn Bảo Nhựt Anh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T12:59:15.562Z"
+    },
+    {
+      "studentId": "SS180197",
+      "name": "Nguyễn Mai Anh Thư",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:00:29.829Z"
+    },
+    {
+      "studentId": "SS180511",
+      "name": "Nguyễn Thị Thảo Nhi",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T14:00:21.982Z"
+    },
+    {
+      "studentId": "SS180514",
+      "name": "Nguyễn Ngọc Quyên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:49:35.514Z"
+    },
+    {
+      "studentId": "SS180529",
+      "name": "Phạm Linh Giang",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:49:45.842Z"
+    },
+    {
+      "studentId": "SS180601",
+      "name": "Nguyễn Hữu Khoan",
+      "shift": 3,
+      "group": "",
+      "sessionLabel": "07/11 – Ca 3",
+      "fetchedAt": "2026-11-04T14:36:06.197Z"
+    },
+    {
+      "studentId": "SS180615",
+      "name": "Phạm Nguyễn Na Na",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:44:39.387Z"
+    },
+    {
+      "studentId": "SS180618",
+      "name": "Võ Nguyễn Na Uy",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:52:00.098Z"
+    },
+    {
+      "studentId": "SS180640",
+      "name": "Nguyễn Bách Kim Ngân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:51:52.014Z"
+    },
+    {
+      "studentId": "SS180705",
+      "name": "Lê Nguyễn Mai Thảo",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:58:49.633Z"
+    },
+    {
+      "studentId": "SS180734",
+      "name": "Thái Lê Phương Duyên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:51:36.030Z"
+    },
+    {
+      "studentId": "SS180737",
+      "name": "Lê Thị Huế Trân",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:52:32.149Z"
+    },
+    {
+      "studentId": "SS180820",
+      "name": "Nguyễn Đặng Mỹ Hạnh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:58:41.597Z"
+    },
+    {
+      "studentId": "SS180831",
+      "name": "Nguyễn Thị Vân Nhi",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:44:44.401Z"
+    },
+    {
+      "studentId": "SS180837",
+      "name": "Trịnh Kim Phát",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:49:51.631Z"
+    },
+    {
+      "studentId": "SS180961",
+      "name": "Nguyễn Cao Phương Linh",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:56:41.098Z"
+    },
+    {
+      "studentId": "SS180982",
+      "name": "Lê Ngọc Phương Uyên",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:48:22.313Z"
+    },
+    {
+      "studentId": "SS181024",
+      "name": "Nguyễn Hoàng Dung",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:52:40.198Z"
+    },
+    {
+      "studentId": "SS181093",
+      "name": "Nguyễn Thành Lộc",
+      "shift": 2,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 2",
+      "fetchedAt": "2026-11-04T13:51:27.948Z"
+    },
+    {
+      "studentId": "SS181128",
+      "name": "Nguyễn Thị Bảo Ngọc",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:50:23.748Z"
+    },
+    {
+      "studentId": "SS181218",
+      "name": "Phạm Nguyễn Anh Phương",
+      "shift": 1,
+      "group": "",
+      "sessionLabel": "08/11 – Ca 1",
+      "fetchedAt": "2026-11-04T13:51:03.881Z"
+    }
+  ]
+}
